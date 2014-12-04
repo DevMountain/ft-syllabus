@@ -104,7 +104,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Learn Git](https://github.com/DevMountain/learn-git)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
@@ -218,7 +218,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [jQuery 2](https://github.com/DevMountain/jQuery2)
+  - [jQuery 2](https://github.com/DevMountain/jQuery2) *REFINE
 - Additional Reading:
   - Additional Reading
 
@@ -318,7 +318,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Form Validation](https://github.com/DevMountain/formValidation)
+  - [Form Validation](https://github.com/DevMountain/formValidation) 
 - Additional Reading:
   - Additional Reading
 
@@ -330,8 +330,8 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Parse Queue](https://github.com/DevMountain/parseQueue)
-  - [Real Time Forum](https://github.com/DevMountain/rtfm)
+  - [Parse Queue](https://github.com/DevMountain/parseQueue) *REVISE
+  - [Real Time Forum](https://github.com/DevMountain/rtfm) *REVISE
 - Additional Reading:
   - Additional Reading
 
@@ -355,7 +355,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Chatty](github.com/devmountain/chatty)
+  - [Chatty](https://github.com/devmountain/chatty)
 - Additional Reading:
   - Additional Reading
 
@@ -418,7 +418,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one)
+  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one) *REVISE
 - Additional Reading:
   - Additional Reading
 
@@ -430,7 +430,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two)
+  - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
 - Additional Reading:
   - Additional Reading
 
