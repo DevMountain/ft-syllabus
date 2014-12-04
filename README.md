@@ -17,6 +17,7 @@
   - [Day 4](#day24)
   - [Day 5](#day25)
 
+### [Unit 3 - AngularJS](#unit3)
 - [Week 3](#week3)
   - [Day 1](#day31)
   - [Day 2](#day32)
@@ -31,8 +32,7 @@
   - [Day 4](#day44)
   - [Day 5](#day45)
 
-### [Unit 3 - AngularJS](#unit3)
-
+### [Unit 4 - NodeJS](#unit4)
 - [Week 5](#week5)
   - [Day 1](#day51)
   - [Day 2](#day52)
@@ -40,6 +40,7 @@
   - [Day 4](#day54)
   - [Day 5](#day55)
 
+### [Unit 5 - MongoDB](#unit5)
 - [Week 6](#week6)
   - [Day 1](#day61)
   - [Day 2](#day62)
@@ -47,6 +48,7 @@
   - [Day 4](#day64)
   - [Day 5](#day65)
 
+### [Unit 6 - Personal Projects](#unit6)
 - [Week 7](#week7)
   - [Day 1](#day71)
   - [Day 2](#day72)
@@ -54,14 +56,43 @@
   - [Day 4](#day74)
   - [Day 5](#day75)
 
-### [Unit 4 - BAAS / APIs](#unit4)
-
 - [Week 8](#week8)
   - [Day 1](#day81)
   - [Day 2](#day82)
   - [Day 3](#day83)
   - [Day 4](#day84)
   - [Day 5](#day85)
+
+### [Unit 7 - React](#unit7)
+- [Week 9](#week9)
+  - [Day 1](#day91)
+  - [Day 2](#day92)
+  - [Day 3](#day93)
+  - [Day 4](#day94)
+  - [Day 5](#day95)
+
+### [Unit 8 - Group Projects](#unit8)
+- [Week 10](#week10)
+  - [Day 1](#day101)
+  - [Day 2](#day102)
+  - [Day 3](#day103)
+  - [Day 4](#day104)
+  - [Day 5](#day105)
+
+- [Week 11](#week11)
+  - [Day 1](#day111)
+  - [Day 2](#day112)
+  - [Day 3](#day113)
+  - [Day 4](#day114)
+  - [Day 5](#day115)
+
+### [Unit 9 - Job Prep](#unit9)
+- [Week 12](#week12)
+  - [Day 1](#day121)
+  - [Day 2](#day122)
+  - [Day 3](#day123)
+  - [Day 4](#day124)
+  - [Day 5](#day125)
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
@@ -417,27 +448,20 @@
   - Additional Reading
 
 #### <a name="day72"></a> Day 2 - Personal Projects
-
 #### <a name="day73"></a> Day 3 - Personal Projects
-
 #### <a name="day74"></a> Day 4 - Personal Projects
-
 #### <a name="day75"></a> Day 5 - Personal Projects
 
-### <a name="week8"></a> Week 8 - Personal Prijects
+### <a name="week8"></a> Week 8 - Personal Projects
 #### <a name="day81"></a> Day 1 - Personal Projects
-
 #### <a name="day82"></a> Day 2 - Personal Projects
-
 #### <a name="day83"></a> Day 3 - Personal Projects
-
 #### <a name="day84"></a> Day 4 - Personal Projects
-
 #### <a name="day85"></a> Day 5 - Personal Projects
 
-## <a name="unit6"></a> Unit 6 - ReactJS
+## <a name="unit7"></a> Unit 7 - ReactJS
 ### <a name="week9"></a> Week 9 - ReactJS
-#### <a name="day81"></a> Day 1 - React I
+#### <a name="day91"></a> Day 1 - React I
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -449,7 +473,7 @@
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day82"></a> Day 2 - React II
+#### <a name="day92"></a> Day 2 - React II
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -461,7 +485,7 @@
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day83"></a> Day 3 - React III
+#### <a name="day93"></a> Day 3 - React III
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -473,7 +497,7 @@
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day84"></a> Day 4 - React IV
+#### <a name="day94"></a> Day 4 - React IV
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -485,7 +509,7 @@
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day85"></a> Day 5 - React V
+#### <a name="day95"></a> Day 5 - React V
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -497,13 +521,82 @@
 - Additional Reading:
   - Additional Reading
 
+## <a name="unit8"></a> Unit 8 - Group Projects
+### <a name="week10"></a> Week 10 - Group Projects
+#### <a name="day101"></a> Day 1 - Group Projects
+#### <a name="day102"></a> Day 2 - Group Projects
+#### <a name="day103"></a> Day 3 - Group Projects
+#### <a name="day104"></a> Day 4 - Group Projects
+#### <a name="day105"></a> Day 5 - Group Projects
 
+### <a name="week11"></a> Week 11 - Group Projects
+#### <a name="day111"></a> Day 1 - Group Projects
+#### <a name="day112"></a> Day 2 - Group Projects
+#### <a name="day113"></a> Day 3 - Group Projects
+#### <a name="day114"></a> Day 4 - Group Projects
+#### <a name="day115"></a> Day 5 - Group Projects
 
+## <a name="unit9"></a> Unit 9 - Job Prep
+### <a name="week12"></a> Week 12 - Job Prep
+#### <a name="day121"></a> Day 1 - Job Prep
+- Before Class
+  - READ THIS THING
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](TODO)
+- Additional Reading:
+  - Additional Reading
 
+#### <a name="day122"></a> Day 2 - Job Prep
+- Before Class
+  - READ THIS THING
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](TODO)
+- Additional Reading:
+  - Additional Reading
 
+#### <a name="day123"></a> Day 3 - Job Prep
+- Before Class
+  - READ THIS THING
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](TODO)
+- Additional Reading:
+  - Additional Reading
 
+#### <a name="day124"></a> Day 4 - Job Prep
+- Before Class
+  - READ THIS THING
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](TODO)
+- Additional Reading:
+  - Additional Reading
 
-
+#### <a name="day125"></a> Day 5 - Job Prep
+- Before Class
+  - READ THIS THING
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](TODO)
+- Additional Reading:
+  - Additional Reading
 
 
 
