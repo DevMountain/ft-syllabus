@@ -306,8 +306,17 @@
 
 #### <a name="day45"></a> Day 5 - No Server Project
 
-### <a name="week5"></a> Week 5 - AngularJS Fundamentals
-#### <a name="day51"></a> Day 1 - AngularJS Overview
+## <a name="unit4"></a> Unit 4 - NodeJS
+### <a name="week5"></a> Week 5 - Node Fundamentals
+
+#### <a name="day51"></a> Day 1 - No Server Project
+
+#### <a name="day52"></a> Day 2 - No Server Project
+
+#### <a name="day53"></a> Day 3 - No Server Project
+
+
+#### <a name="day54"></a> Day 4 - NodeJS I
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -315,11 +324,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Angular Friends](https://github.com/DevMountain/angular-friends)
+  - [Chatty](github.com/devmountain/chatty)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day52"></a> Day 2 - AngularJS Services
+#### <a name="day55"></a> Day 5 - NodeJS II
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -327,11 +336,13 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Quote Book](https://github.com/DevMountain/quoteBook)
+  - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day53"></a> Day 3 - AngularJS Services Reviewed
+## <a name="unit5"></a> Unit 5 - MongoDB
+### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
+#### <a name="day61"></a> Day 1 - NodeJS III
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -339,49 +350,12 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Quote Book cont.](https://github.com/DevMountain/quoteBook)
-- Additional Reading:
-  - Additional Reading
-
-#### <a name="day54"></a> Day 4 - AngularJS Promises
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
-- Additional Reading:
-  - Additional Reading
-
-#### <a name="day55"></a> Day 5 - AngularJS Promises
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [Chatroom](https://github.com/DevMountain/chatroom)
-- Additional Reading:
-  - Additional Reading
-
-### <a name="week6"></a> Week 6 - Advanced AngularJS
-#### <a name="day61"></a> Day 1 - AngularJS APIs I
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [iTunes](https://github.com/DevMountain/itunes)
+  - [TextSupport](https://github.com/DevMountain/TextSupport)
 - Additional Reading:
   - Additional Reading
 ## Unit 3 - AngularJS
 
-#### <a name="day62"></a> Day 2 - AngularJS APIs II
+#### <a name="day62"></a> Day 2 - NodeJS IV
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -389,11 +363,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [iTunes](https://github.com/DevMountain/itunes)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day63"></a> Day 3 - AngularJS Routing I
+#### <a name="day63"></a> Day 3 - NodeJS V
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -401,11 +375,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day64"></a> Day 4 -  AngularJS Routing II
+#### <a name="day64"></a> Day 4 -  MongoDB I
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -413,11 +387,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
+  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day65"></a> Day 5 -  AngularJS Routing II
+#### <a name="day65"></a> Day 5 -  MongoDB II
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -425,12 +399,12 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [NBA Routes cont.](https://github.com/DevMountain/nbaRoutes)
+  - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two)
 - Additional Reading:
   - Additional Reading
 
-### <a name="week7"></a> Week 7 - Advanced AngularJS
-#### <a name="day71"></a> Day 1 - AngularJS Directives I
+### <a name="week7"></a> Week 7 - Review
+#### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -438,24 +412,32 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Directives](https://github.com/DevMountain/Directives-Workshop)
-- Additional Reading:
-  - Additional Reading
-## Unit 3 - AngularJS
-
-#### <a name="day72"></a> Day 2 - AngularJS Directives II
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [Directives cont.](https://github.com/DevMountain/Directives-Workshop)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day73"></a> Day 3 - AngularJS Some FT Repo
+#### <a name="day72"></a> Day 2 - Personal Projects
+
+#### <a name="day73"></a> Day 3 - Personal Projects
+
+#### <a name="day74"></a> Day 4 - Personal Projects
+
+#### <a name="day75"></a> Day 5 - Personal Projects
+
+### <a name="week8"></a> Week 8 - Personal Prijects
+#### <a name="day81"></a> Day 1 - Personal Projects
+
+#### <a name="day82"></a> Day 2 - Personal Projects
+
+#### <a name="day83"></a> Day 3 - Personal Projects
+
+#### <a name="day84"></a> Day 4 - Personal Projects
+
+#### <a name="day85"></a> Day 5 - Personal Projects
+
+## <a name="unit6"></a> Unit 6 - ReactJS
+### <a name="week9"></a> Week 9 - ReactJS
+#### <a name="day81"></a> Day 1 - React I
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -463,11 +445,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Some FT Repo](https://github.com/DevMountain/nbaRoutes)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day74"></a> Day 4 - APIs I
+#### <a name="day82"></a> Day 2 - React II
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -475,11 +457,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [A new API Repo: MAKE](#makethis)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day75"></a> Day 5 - APIs I
+#### <a name="day83"></a> Day 3 - React III
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -487,13 +469,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [A new API Repo: MAKE](#makethis)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-## <a name="unit4"></a> Unit 4 - BAAS & APIs
-### <a name="week8"></a> Week 8 - BAAS & APIs
-#### <a name="day81"></a> Day 1 - APIs II
+#### <a name="day84"></a> Day 4 - React IV
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -501,24 +481,11 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [A new API Repo: MAKE](#makethis)
-- Additional Reading:
-  - Additional Reading
-## Unit 3 - AngularJS
-
-#### <a name="day82"></a> Day 2 - Parse
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [ParseQueue](https://github.com/DevMountain/parseQueue)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day83"></a> Day 3 - Firebase
+#### <a name="day85"></a> Day 5 - React V
 - Before Class
   - READ THIS THING
 - Learning Objectives
@@ -526,31 +493,31 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [RTFM](https://github.com/DevMountain/RTFM)
+  - [TODO](TODO)
 - Additional Reading:
   - Additional Reading
 
-#### <a name="day84"></a> Day 4 - Firebase
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [RTFM cont.](https://github.com/DevMountain/RTFM)
-- Additional Reading:
-  - Additional Reading
 
-#### <a name="day85"></a> Day 5 - Firebase
-- Before Class
-  - READ THIS THING
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [RTFM cont.](https://github.com/DevMountain/RTFM)
-- Additional Reading:
-  - Additional Reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
