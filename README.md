@@ -97,8 +97,8 @@
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
 #### <a name="day11"></a>Day 1 - Git & Version Control
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -109,8 +109,8 @@
   - Additional Reading
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -121,8 +121,8 @@
   - Additional Reading
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -134,8 +134,8 @@
   - Additional Reading
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -146,8 +146,8 @@
   - Additional Reading
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -161,8 +161,8 @@
 ## <a name="unit2"></a> Unit 2 - JavaScript
 ### <a name="week2"></a> Week 2 - Advanced JavaScript
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -174,8 +174,8 @@
   - Additional Reading
 
 #### <a name="day22"></a> Day 2 - Advanced JavaScript I & II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -187,8 +187,8 @@
   - Additional Reading
 
 #### <a name="day23"></a> Day 3 - JavaScript Review
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -199,8 +199,8 @@
   - Additional Reading
 
 #### <a name="day24"></a> Day 4 - jQuery I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -211,8 +211,8 @@
   - Additional Reading
 
 #### <a name="day25"></a> Day 5 - jQuery II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -225,8 +225,8 @@
 ## <a name="unit3"></a>Unit 3 - AngularJS
 ### <a name="week3"></a> Week 3 - Angular Fundamentals
 #### <a name="day31"></a> Day 1 - AngularJS I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -237,8 +237,8 @@
   - Additional Reading
 
 #### <a name="day32"></a> Day 2 - AngularJS II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -250,8 +250,8 @@
 
 
 #### <a name="day33"></a> Day 3 - AngularJS III
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -262,8 +262,8 @@
   - Additional Reading
 
 #### <a name="day34"></a> Day 4 - AngularJS IV
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -274,8 +274,8 @@
   - Additional Reading
 
 #### <a name="day35"></a> Day 5 -Angular Review I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -287,8 +287,8 @@
 
 ### <a name="week4"></a> Week 4 - Advanced Angular
 #### <a name="day41"></a> Day 1 - Angular V
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -299,8 +299,8 @@
   - Additional Reading
 
 #### <a name="day42"></a> Day 2 - Angular VI
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -311,8 +311,8 @@
   - Additional Reading
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -323,8 +323,8 @@
   - Additional Reading
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -348,8 +348,8 @@
 
 
 #### <a name="day54"></a> Day 4 - NodeJS I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -360,8 +360,8 @@
   - Additional Reading
 
 #### <a name="day55"></a> Day 5 - NodeJS II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -374,8 +374,8 @@
 ## <a name="unit5"></a> Unit 5 - MongoDB
 ### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
 #### <a name="day61"></a> Day 1 - NodeJS III
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -387,8 +387,8 @@
 ## Unit 3 - AngularJS
 
 #### <a name="day62"></a> Day 2 - NodeJS IV
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -399,8 +399,8 @@
   - Additional Reading
 
 #### <a name="day63"></a> Day 3 - NodeJS V
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -411,8 +411,8 @@
   - Additional Reading
 
 #### <a name="day64"></a> Day 4 -  MongoDB I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -423,8 +423,8 @@
   - Additional Reading
 
 #### <a name="day65"></a> Day 5 -  MongoDB II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -436,8 +436,8 @@
 
 ### <a name="week7"></a> Week 7 - Review
 #### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -462,8 +462,8 @@
 ## <a name="unit7"></a> Unit 7 - ReactJS
 ### <a name="week9"></a> Week 9 - ReactJS
 #### <a name="day91"></a> Day 1 - React I
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -474,8 +474,8 @@
   - Additional Reading
 
 #### <a name="day92"></a> Day 2 - React II
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -486,8 +486,8 @@
   - Additional Reading
 
 #### <a name="day93"></a> Day 3 - React III
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -498,8 +498,8 @@
   - Additional Reading
 
 #### <a name="day94"></a> Day 4 - React IV
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -510,8 +510,8 @@
   - Additional Reading
 
 #### <a name="day95"></a> Day 5 - React V
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -539,8 +539,8 @@
 ## <a name="unit9"></a> Unit 9 - Job Prep
 ### <a name="week12"></a> Week 12 - Job Prep
 #### <a name="day121"></a> Day 1 - Job Prep
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -551,8 +551,8 @@
   - Additional Reading
 
 #### <a name="day122"></a> Day 2 - Job Prep
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -563,8 +563,8 @@
   - Additional Reading
 
 #### <a name="day123"></a> Day 3 - Job Prep
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -575,8 +575,8 @@
   - Additional Reading
 
 #### <a name="day124"></a> Day 4 - Job Prep
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -587,8 +587,8 @@
   - Additional Reading
 
 #### <a name="day125"></a> Day 5 - Job Prep
-- Before Class
-  - READ THIS THING
+- Mini Project:
+  - [TODO](TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
