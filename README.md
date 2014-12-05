@@ -100,9 +100,9 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - Students will be able to initialize git in their projects.
-  - Students will know how to create new GitHub Repositories.
-  - Students will be able to commit, and push commits to their repos.
+  - Students will be able to initialize git in their projects
+  - Students will know how to create new GitHub Repositories
+  - Students will be able to commit, and push commits to their repos
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
@@ -164,8 +164,8 @@
   - [TODO](#TODO)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand media queries and be able to implement them
+  - Students will understand when and when not to use floating elements
 - Project:
   - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
@@ -175,9 +175,24 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand how the web works:
+    - front-end vs back-end
+    - the web app landscape
+  - Students will understand JavaScript vs jQuery
+  - Students will understand what the DOM is
+  - Students will understand conditional statements and how they’re used
+  - Students will understand functions:
+    - invocation vs definition
+    - parameters vs arguments
+    - global and local scope
+    - anonymous functions
+    - return values and how to save the returned value to another variable
+  - Students will understand Arrays:
+    - purpose
+    - how to get values from arrays
+    - array properties (length, push/pop, shift/unshift, split/join, splice/slice, reverse, indexOf)
+    - how to create an array
+    - how to loop through an array
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
   - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
