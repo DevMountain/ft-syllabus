@@ -98,7 +98,7 @@
 ### <a name="week1"></a>Week 1 - HTML & CSS
 #### <a name="day11"></a>Day 1 - Git & Version Control
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -110,7 +110,7 @@
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -122,7 +122,7 @@
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -135,7 +135,7 @@
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -147,7 +147,7 @@
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -162,7 +162,7 @@
 ### <a name="week2"></a> Week 2 - Advanced JavaScript
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -175,7 +175,7 @@
 
 #### <a name="day22"></a> Day 2 - Advanced JavaScript I & II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -188,7 +188,7 @@
 
 #### <a name="day23"></a> Day 3 - JavaScript Review
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -200,7 +200,7 @@
 
 #### <a name="day24"></a> Day 4 - jQuery I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -212,7 +212,7 @@
 
 #### <a name="day25"></a> Day 5 - jQuery II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -226,7 +226,7 @@
 ### <a name="week3"></a> Week 3 - Angular Fundamentals
 #### <a name="day31"></a> Day 1 - AngularJS I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -238,7 +238,7 @@
 
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -251,7 +251,7 @@
 
 #### <a name="day33"></a> Day 3 - AngularJS III
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -263,7 +263,7 @@
 
 #### <a name="day34"></a> Day 4 - AngularJS IV
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -275,7 +275,7 @@
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -288,7 +288,7 @@
 ### <a name="week4"></a> Week 4 - Advanced Angular
 #### <a name="day41"></a> Day 1 - Angular V
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -300,7 +300,7 @@
 
 #### <a name="day42"></a> Day 2 - Angular VI
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -312,7 +312,7 @@
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -324,7 +324,7 @@
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -349,7 +349,7 @@
 
 #### <a name="day54"></a> Day 4 - NodeJS I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -361,7 +361,7 @@
 
 #### <a name="day55"></a> Day 5 - NodeJS II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -375,7 +375,7 @@
 ### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
 #### <a name="day61"></a> Day 1 - NodeJS III
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -388,19 +388,19 @@
 
 #### <a name="day62"></a> Day 2 - NodeJS IV
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day63"></a> Day 3 - NodeJS V
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -412,7 +412,7 @@
 
 #### <a name="day64"></a> Day 4 -  MongoDB I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -424,7 +424,7 @@
 
 #### <a name="day65"></a> Day 5 -  MongoDB II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -437,13 +437,13 @@
 ### <a name="week7"></a> Week 7 - Review
 #### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
@@ -463,61 +463,61 @@
 ### <a name="week9"></a> Week 9 - ReactJS
 #### <a name="day91"></a> Day 1 - React I
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day92"></a> Day 2 - React II
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day93"></a> Day 3 - React III
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day94"></a> Day 4 - React IV
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day95"></a> Day 5 - React V
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
@@ -540,61 +540,61 @@
 ### <a name="week12"></a> Week 12 - Job Prep
 #### <a name="day121"></a> Day 1 - Job Prep
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day122"></a> Day 2 - Job Prep
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day123"></a> Day 3 - Job Prep
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day124"></a> Day 4 - Job Prep
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
 #### <a name="day125"></a> Day 5 - Job Prep
 - Mini Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [TODO](TODO)
+  - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
 
