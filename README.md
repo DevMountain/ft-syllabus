@@ -114,38 +114,57 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand the purpose of HTML
+  - Students will understand the purpose of CSS
+  - Students will from scratch, be able to create a skeleton for their html and css page
+  - understand and be able to use the following HTML Elements 
+    - p
+    - footer
+    - header
+    - h1 - h6
+    - ul
+    - li
+    - div
+  - Understand and be able to use the following CSS properties
+    - id (#) vs class(.) and specificity
+    - width px & %
+    - height px & %
+    - background-color
+    - background-image
+    - color
+    - font-size
+    - text-align: center
+    - line-height
+    - box-model (margin, padding, border)
+    - float
+    - clear
 - Project:
   - [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
-  - Additional Reading
+  - [HTML Layouts](http://www.tutorialspoint.com/html/html_layouts.htm)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - TODO
 - Projects:
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
-  - Additional Reading
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
+  - Students should be able to take a mockup and recreate it.
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
   - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
-  - Additional Reading
+  - [Codeacademy HTML Fundamentals](http://www.codecademy.com/courses/html-one-o-one/0/1)
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Mini Project:
