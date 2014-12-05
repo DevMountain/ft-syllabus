@@ -147,7 +147,12 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - TODO
+  - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
+  - Students will understand the purpose of CSS
+  - Students will be able to compare and contrast fixed, relative, absolute, and static positioning in CSS
+  - Students will be able to compare and contrast display block, inline-block, inline, and none
+  - Students will be able to compare and contrast overflow hidden, auto, scroll
+  - Students will understand and be able to use max/min-width and max/min-height
 - Projects:
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
