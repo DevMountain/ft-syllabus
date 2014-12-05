@@ -100,13 +100,15 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will be able to initialize git in their projects.
+  - Students will know how to create new GitHub Repositories.
+  - Students will be able to commit, and push commits to their repos.
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) 
+  - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Mini Project:
