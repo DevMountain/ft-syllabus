@@ -163,7 +163,7 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - Students should be able to take a mockup and recreate it.
+  - Students will understand and be able to explain the box model to someone else
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
