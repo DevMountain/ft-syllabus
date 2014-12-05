@@ -226,6 +226,10 @@
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
+  - Students will understand the difference between the maker pattern and constructor pattern
+  - Students will understand what the ‘this’ keyword does and be able to use it
+  - Students will understand what the ‘new’ keyword does and what the JavaScript compiler does when a function is       called with the ‘new’ keyword
+  - understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create        instances of that function that invoke the prototypes method
 - Projects:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
   - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
@@ -236,11 +240,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - Students will understand the difference between the maker pattern and constructor pattern
-  - Students will understand what the ‘this’ keyword does and be able to use it
-  - Students will understand what the ‘new’ keyword does and what the JavaScript compiler does when a function is       called with the ‘new’ keyword
-  - understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create        instances of that function that invoke the prototypes method
-
+  - Students will be able to define what a closure is
+  - Students will be able to identify when a closure is being used
 - Project:
   - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
