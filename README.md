@@ -205,9 +205,13 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand how Objects differ from Arrays
+  - Students will understand use cases for objects
+  - Students will understand how to create and add properties/values to objects
+  - Students will understand how to loop through objects
+  - Students will understand how to create and invoke a method
+  - Students will understand bracket notation vs dot notation
+  - Students will understand how to remove keys/props from objects (delete)
 - Projects:
   - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
   - [War](https://github.com/DevMountain/war)
