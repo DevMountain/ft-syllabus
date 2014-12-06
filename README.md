@@ -291,9 +291,10 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand the purpose of Services in Angular
+  - Students will know how to inject services into their controllers
+  - Students will know how to call methods on their services from in their controllers and put the response on        $scope
+  - know the difference between factories and services 
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
@@ -304,9 +305,10 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will be able to explain what JSON is
+  - Students will be able to explain was REST is
+  - Students will be able to explain what AJAX is
+  - Students will make an ajax request with angular, call .then on the promise and add that data to the $scope
 - Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
@@ -316,9 +318,9 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will be able to make $http requests to various APIs
+  - Students will be able to use outside directives and know how to inject those modules into their application
+  - Students will be able to create, return, and resolve their own promises with $q
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
@@ -328,9 +330,7 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - TODO
 - Project:
   - [TODO](#ifyouarereadingthiswhyareyoureadingthis)
 - Additional Reading:
@@ -341,9 +341,10 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand the methodology behind routing and templating
+  - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
+  - Students will be able to use resolve to resolve data and pass in data to their controller before their            controller initializes
+  - Students will be able to use routeParams to gather data from the URL
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
@@ -353,9 +354,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand how Directives fit into the Angular ecosystem
+  - Students will be able to create a custom directive and use it in a view
 - Project:
   - [Directives Workshop](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
@@ -377,9 +377,8 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand the term CRUD
+  - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
 - Project:
   - [Parse Queue](https://github.com/DevMountain/parseQueue) *REVISE
   - [Real Time Forum](https://github.com/DevMountain/rtfm) *REVISE
