@@ -277,9 +277,11 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
+  - Students will understand what a module, controller, directive, and service is in angular
+  - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
+  - Students will be able to ng-repeat over data
+  - Students will be able to filter data 
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
@@ -400,9 +402,11 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Student will understand how HTTP works to communicate between client & server
+  - Student can create a basic HTTP NodeJS server
+  - Student can use basic REST verbs (GET, POST)
+  - Student understands and can implement basic CORS headers
+  - Student can use "require" to import a Node module
 - Project:
   - [Chatty](https://github.com/devmountain/chatty)
 - Additional Reading:
@@ -412,23 +416,23 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Student can use middleware to add CORS headers
+  - Student can access URL parameters in a web request
 - Project:
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
   - Additional Reading
 
-## <a name="unit5"></a> Unit 5 - MongoDB
+## <a name="unit5"></a> Unit 5 - NodeJS
 ### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
 #### <a name="day61"></a> Day 1 - NodeJS III
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Student can use Express to serve static files
+  - Student can use routing in Express to create basic API endpoints
+  - Student can use route params to make dynamic endpoints
+  - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
   - [TextSupport](https://github.com/DevMountain/TextSupport)
 - Additional Reading:
@@ -439,9 +443,10 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Student can use Express to serve static files
+  - Student can use routing in Express to create basic API endpoints
+  - Student can use route params to make dynamic endpoints
+  - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
