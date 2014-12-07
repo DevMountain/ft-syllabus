@@ -283,7 +283,7 @@
 ### <a name="week3"></a> Week 3 - Angular Fundamentals
 #### <a name="day31"></a> Day 1 - AngularJS I
 - Pre-Reading:
-  - [Starting with Angular] (http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
+  - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -295,7 +295,7 @@
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  - [Angular Services] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+  - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Mini Project:
   - [TODO](#TODO)
