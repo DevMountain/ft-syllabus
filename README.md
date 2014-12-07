@@ -275,7 +275,7 @@
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 - Mini Project:
-  - [TODO](#TODO)
+  - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
 - Learning Objectives
   - Students will understand the difference between jQuery and Angular and how Angular fits into the web app          landscape
   - Students will understand what a module, controller, directive, and service is in angular
@@ -290,7 +290,7 @@
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
-  - [TODO](#TODO)
+  - [User Profiles](https://github.com/eanplatter/mini-userProfiles)
 - Learning Objectives
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
