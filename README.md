@@ -179,7 +179,6 @@
 - Project:
   - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
-  - [Codeacademy HTML Fundamentals](http://www.codecademy.com/courses/html-one-o-one/0/1)
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Pre-Reading:
