@@ -235,7 +235,7 @@
   - Students will understand the difference between the maker pattern and constructor pattern
   - Students will understand what the ‘this’ keyword does and be able to use it
   - Students will understand what the ‘new’ keyword does and what the JavaScript compiler does when a function is       called with the ‘new’ keyword
-  - understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create        instances of that function that invoke the prototypes method
+  - Students will understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create instances of that function that invoke the prototypes method
 - Projects:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
   - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
@@ -256,6 +256,7 @@
 - Additional Reading:
 
 #### <a name="day24"></a> Day 4 - jQuery I
+- Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -265,9 +266,9 @@
 - Project:
   - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day25"></a> Day 5 - jQuery II
+- Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -277,11 +278,12 @@
 - Project:
   - [jQuery 2](https://github.com/DevMountain/jQuery2) *REFINE
 - Additional Reading:
-  - Additional Reading
 
 ## <a name="unit3"></a>Unit 3 - AngularJS
 ### <a name="week3"></a> Week 3 - Angular Fundamentals
 #### <a name="day31"></a> Day 1 - AngularJS I
+- Pre-Reading:
+ 
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
