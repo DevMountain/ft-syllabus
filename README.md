@@ -296,6 +296,7 @@
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Mini Project:
   - [TODO](#TODO)
