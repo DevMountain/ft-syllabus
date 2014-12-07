@@ -295,9 +295,11 @@
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
+  
 
 #### <a name="day32"></a> Day 2 - AngularJS II
+- Pre-Reading:
+  - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -312,8 +314,8 @@
 
 #### <a name="day33"></a> Day 3 - AngularJS III
 - Pre-Reading:
-  - [Angular's $http] (https://egghead.io/lessons/angularjs-http)
-  - [Promises] (http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+  - [Angular's $http](https://egghead.io/lessons/angularjs-http)
+  - [Promises](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -388,16 +390,17 @@
 - Additional Reading:
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
+- Pre-Reading:
+  - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
 - Project:
-  - [Parse Queue](https://github.com/DevMountain/parseQueue) *REVISE
-  - [Real Time Forum](https://github.com/DevMountain/rtfm) *REVISE
+  - [Parse Queue](https://github.com/DevMountain/parseQueue)
+  - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day45"></a> Day 5 - No Server Project
 
