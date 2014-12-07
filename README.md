@@ -283,7 +283,7 @@
 ### <a name="week3"></a> Week 3 - Angular Fundamentals
 #### <a name="day31"></a> Day 1 - AngularJS I
 - Pre-Reading:
- 
+  - [Starting with Angular]http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -295,8 +295,7 @@
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  - Additional Reading
-
+  - [Angular Services] (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Mini Project:
   - [TODO](#TODO)
@@ -308,10 +307,12 @@
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
-  - Additional Reading
 
 
 #### <a name="day33"></a> Day 3 - AngularJS III
+- Pre-Reading:
+  - [Angular's $http] (https://egghead.io/lessons/angularjs-http)
+  - [Promises] (http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -322,9 +323,10 @@
 - Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day34"></a> Day 4 - AngularJS IV
+- Pre-Reading:
+  - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -334,7 +336,6 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 - Mini Project:
@@ -344,10 +345,11 @@
 - Project:
   - [TODO](#ifyouarereadingthiswhyareyoureadingthis)
 - Additional Reading:
-  - Additional Reading
 
 ### <a name="week4"></a> Week 4 - Advanced Angular
 #### <a name="day41"></a> Day 1 - Angular V
+- Pre-Reading:
+  - [Routing with ngRoute](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -358,9 +360,10 @@
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day42"></a> Day 2 - Angular VI
+- Pre-Reading:
+  - [Directives](http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-i-the-fundamentals)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -369,9 +372,10 @@
 - Project:
   - [Directives Workshop](https://github.com/DevMountain/Directives-Workshop)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
+- Pre-Reading:
+  - [Form Validation w/ NG](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -381,7 +385,6 @@
 - Project:
   - [Form Validation](https://github.com/DevMountain/formValidation) 
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
 - Mini Project:
