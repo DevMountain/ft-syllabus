@@ -290,7 +290,7 @@
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
 - Mini Project:
-  - [User Profiles](https://github.com/eanplatter/mini-userProfiles)
+  - [User Profiles](https://github.com/DevMountain/mini-userProfiles)
 - Learning Objectives
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
