@@ -97,6 +97,9 @@
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
 #### <a name="day11"></a>Day 1 - Orientation & Version Control
+- Pre-Reading:
+  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
@@ -114,17 +117,14 @@
     - Students will be able to minimally manage vim to escape merge conflict messages
     - Students will know how to make a Pull Request
     - Students will be able to pull changes from the master repo
-
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) 
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
-  - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
-- Mini Project:
-  - [TODO](#TODO)
+- Pre-Reading:
+  - [TODO](TODO)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -153,11 +153,10 @@
 - Project:
   - [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
-  - [HTML Layouts](http://www.tutorialspoint.com/html/html_layouts.htm)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
-- Mini Project:
-  - [TODO](#TODO)
+- Pre-Reading:
+  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 - Learning Objectives
   - Students will be able to use Chrome Dev Tools to inspect their HTML/CSS
   - Students will understand the purpose of CSS
@@ -169,11 +168,10 @@
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
-  - [Positioning: MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
-- Mini Project:
-  - [TODO](#TODO)
+- Pre-Reading:
+  - [TODO](TODO)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
@@ -642,4 +640,3 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
