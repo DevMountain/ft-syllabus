@@ -1,7 +1,6 @@
 # DevMountain Immersive Syllabus
 
 ## Index
-###[Unit 1 - HTML & CSS](#unit1)
 - [Week 1](#week1)
   - [Day 1](#day11)
   - [Day 2](#day12)
@@ -9,7 +8,6 @@
   - [Day 4](#day14)
   - [Day 5](#day15)
 
-### [Unit 2 - JavaScript](#unit2)
 - [Week 2](#week2)
   - [Day 1](#day21)
   - [Day 2](#day22)
@@ -17,7 +15,6 @@
   - [Day 4](#day24)
   - [Day 5](#day25)
 
-### [Unit 3 - AngularJS](#unit3)
 - [Week 3](#week3)
   - [Day 1](#day31)
   - [Day 2](#day32)
@@ -32,7 +29,6 @@
   - [Day 4](#day44)
   - [Day 5](#day45)
 
-### [Unit 4 - NodeJS](#unit4)
 - [Week 5](#week5)
   - [Day 1](#day51)
   - [Day 2](#day52)
@@ -40,7 +36,6 @@
   - [Day 4](#day54)
   - [Day 5](#day55)
 
-### [Unit 5 - MongoDB](#unit5)
 - [Week 6](#week6)
   - [Day 1](#day61)
   - [Day 2](#day62)
@@ -48,7 +43,6 @@
   - [Day 4](#day64)
   - [Day 5](#day65)
 
-### [Unit 6 - Personal Projects](#unit6)
 - [Week 7](#week7)
   - [Day 1](#day71)
   - [Day 2](#day72)
@@ -63,7 +57,6 @@
   - [Day 4](#day84)
   - [Day 5](#day85)
 
-### [Unit 7 - React](#unit7)
 - [Week 9](#week9)
   - [Day 1](#day91)
   - [Day 2](#day92)
@@ -71,7 +64,6 @@
   - [Day 4](#day94)
   - [Day 5](#day95)
 
-### [Unit 8 - Group Projects](#unit8)
 - [Week 10](#week10)
   - [Day 1](#day101)
   - [Day 2](#day102)
@@ -86,7 +78,6 @@
   - [Day 4](#day114)
   - [Day 5](#day115)
 
-### [Unit 9 - Job Prep](#unit9)
 - [Week 12](#week12)
   - [Day 1](#day121)
   - [Day 2](#day122)
@@ -94,8 +85,7 @@
   - [Day 4](#day124)
   - [Day 5](#day125)
 
-## <a name="unit1"></a>Unit 1 - HTML & CSS
-### <a name="week1"></a>Week 1 - HTML & CSS
+## <a name="week1"></a> Week 1
 #### <a name="day11"></a>Day 1 - Orientation & Version Control
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
@@ -207,8 +197,7 @@
   - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
 
-## <a name="unit2"></a> Unit 2 - JavaScript
-### <a name="week2"></a> Week 2 - Advanced JavaScript
+## <a name="week2"></a> Week 2
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
 - Pre-Reading:
   - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/) 
@@ -281,8 +270,7 @@
   - [jQuery 2](https://github.com/DevMountain/jQuery2) *REFINE
 - Additional Reading:
 
-## <a name="unit3"></a>Unit 3 - AngularJS
-### <a name="week3"></a> Week 3 - Angular Fundamentals
+## <a name="week3"></a> Week 3
 #### <a name="day31"></a> Day 1 - AngularJS I
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
@@ -298,7 +286,6 @@
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
   
-
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
@@ -312,7 +299,6 @@
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
-
 
 #### <a name="day33"></a> Day 3 - AngularJS III
 - Pre-Reading:
@@ -351,7 +337,7 @@
   - [TODO](#ifyouarereadingthiswhyareyoureadingthis)
 - Additional Reading:
 
-### <a name="week4"></a> Week 4 - Advanced Angular
+## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Angular V
 - Pre-Reading:
   - [Routing with ngRoute](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
@@ -406,15 +392,12 @@
 
 #### <a name="day45"></a> Day 5 - NG Review (TODO) & No Server Project
 
-## <a name="unit4"></a> Unit 4 - No Server Project & NodeJS
-### <a name="week5"></a> Week 5 - No Server Project & Node Fundamentals
-
+## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - No Server Project
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
 #### <a name="day53"></a> Day 3 - No Server Project
-
 
 #### <a name="day54"></a> Day 4 - NodeJS I
 - Mini Project:
@@ -429,7 +412,6 @@
   - [Chatty](https://github.com/devmountain/chatty)
 - Additional Reading:
 
-
 #### <a name="day55"></a> Day 5 - NodeJS II
 - Mini Project:
   - [TODO](#TODO)
@@ -440,9 +422,7 @@
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
-
-## <a name="unit5"></a> Unit 5 - NodeJS
-### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
+## <a name="week6"></a> Week 6
 #### <a name="day61"></a> Day 1 - NodeJS III
 - Mini Project:
   - [TODO](#TODO)
@@ -500,7 +480,7 @@
   - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
 - Additional Reading:
 
-### <a name="week7"></a> Week 7 - Review & Personal Projects
+## <a name="week7"></a> Week 7
 #### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
 - Mini Project:
   - [TODO](#TODO)
@@ -517,18 +497,16 @@
 #### <a name="day74"></a> Day 4 - Personal Projects
 #### <a name="day75"></a> Day 5 - Personal Projects
 
-### <a name="week8"></a> Week 8 - Personal Projects
+## <a name="week8"></a> Week 8
 #### <a name="day81"></a> Day 1 - Personal Projects
 #### <a name="day82"></a> Day 2 - Personal Projects
 #### <a name="day83"></a> Day 3 - Personal Projects
 #### <a name="day84"></a> Day 4 - Personal Projects
 #### <a name="day85"></a> Day 5 - Personal Projects
 
-## <a name="unit7"></a> Unit 7 - ReactJS
-### <a name="week9"></a> Week 9 - ReactJS
+## <a name="week9"></a> Week 9
 #### <a name="day91"></a> Day 1 - React I
 - Pre-Reading:
-  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -541,7 +519,6 @@
 
 #### <a name="day92"></a> Day 2 - React II
 - Pre-Reading:
-  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -554,7 +531,6 @@
 
 #### <a name="day93"></a> Day 3 - React III
 - Pre-Reading:
-  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -567,7 +543,6 @@
 
 #### <a name="day94"></a> Day 4 - React IV
 - Pre-Reading:
-  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -580,7 +555,6 @@
 
 #### <a name="day95"></a> Day 5 - React V
 - Pre-Reading:
-  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -591,44 +565,42 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-## <a name="unit8"></a> Unit 8 - Group Projects
-### <a name="week10"></a> Week 10 - Group Projects
+## <a name="week10"></a> Week 10
 #### <a name="day101"></a> Day 1 - Group Projects
 #### <a name="day102"></a> Day 2 - Group Projects
 #### <a name="day103"></a> Day 3 - Group Projects
 #### <a name="day104"></a> Day 4 - Group Projects
 #### <a name="day105"></a> Day 5 - Group Projects
 
-### <a name="week11"></a> Week 11 - Group Projects
+## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - Group Projects
 #### <a name="day112"></a> Day 2 - Group Projects
 #### <a name="day113"></a> Day 3 - Group Projects
 #### <a name="day114"></a> Day 4 - Group Projects
 #### <a name="day115"></a> Day 5 - Group Projects
 
-## <a name="unit9"></a> Unit 9 - Job Prep
-### <a name="week12"></a> Week 12 - Job Prep
-#### <a name="day121"></a> Day 1 - Job Prep
+## <a name="week12"></a> Week 12 - Job Prep
+#### <a name="day121"></a> Day 1 - Job Prep I
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day122"></a> Day 2 - Job Prep
+#### <a name="day122"></a> Day 2 - Job Prep II
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day123"></a> Day 3 - Job Prep
+#### <a name="day123"></a> Day 3 - Job Prep III
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day124"></a> Day 4 - Job Prep
+#### <a name="day124"></a> Day 4 - Job Prep IIII
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day125"></a> Day 5 - Job Prep
+#### <a name="day125"></a> Day 5 - Job Prep V
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
