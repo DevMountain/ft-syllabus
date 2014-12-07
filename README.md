@@ -1,4 +1,4 @@
-# DevMountain Syllabus W15 - Front End
+# DevMountain Immersive Syllabus
 
 ## Index
 ###[Unit 1 - HTML & CSS](#unit1)
