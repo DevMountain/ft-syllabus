@@ -96,13 +96,25 @@
 
 ## <a name="unit1"></a>Unit 1 - HTML & CSS
 ### <a name="week1"></a>Week 1 - HTML & CSS
-#### <a name="day11"></a>Day 1 - Git & Version Control
-- Mini Project:
-  - [TODO](#TODO)
+#### <a name="day11"></a>Day 1 - Orientation & Version Control
 - Learning Objectives
-  - Students will be able to initialize git in their projects
-  - Students will know how to create new GitHub Repositories
-  - Students will be able to commit, and push commits to their repos
+    - Students will understand and be able to use the command line for
+      - creating a folder
+      - creating a file
+      - editing a file
+      - changing directories
+    - Students will understand what Git and Github are and how they fit into the web app landscape
+    - Students will be able to Fork a repo and know it’s purpose
+    - Students will be able to clone a repo and know it’s purpose
+    - Students will be able to add, commit, and push files to github
+    - Students will understand branching and it’s purpose
+    - Students will understand how to use github in a group setting
+    - Students will know how to create an upstream to master
+    - Students will be able to handle merge conflicts
+    - Students will be able to minimally manage vim to escape merge conflict messages
+    - Students will know how to make a Pull Request
+    - Students will be able to pull changes from the master repo
+
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
@@ -402,10 +414,10 @@
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
 
-#### <a name="day45"></a> Day 5 - No Server Project
+#### <a name="day45"></a> Day 5 - NG Review (TODO) & No Server Project
 
-## <a name="unit4"></a> Unit 4 - NodeJS
-### <a name="week5"></a> Week 5 - Node Fundamentals
+## <a name="unit4"></a> Unit 4 - No Server Project & NodeJS
+### <a name="week5"></a> Week 5 - No Server Project & Node Fundamentals
 
 #### <a name="day51"></a> Day 1 - No Server Project
 
@@ -426,7 +438,7 @@
 - Project:
   - [Chatty](https://github.com/devmountain/chatty)
 - Additional Reading:
-  - Additional Reading
+
 
 #### <a name="day55"></a> Day 5 - NodeJS II
 - Mini Project:
@@ -437,7 +449,7 @@
 - Project:
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
-  - Additional Reading
+
 
 ## <a name="unit5"></a> Unit 5 - NodeJS
 ### <a name="week6"></a> Week 6 - Advanced Node / MongoDB
@@ -452,8 +464,6 @@
 - Project:
   - [TextSupport](https://github.com/DevMountain/TextSupport)
 - Additional Reading:
-  - Additional Reading
-## Unit 3 - AngularJS
 
 #### <a name="day62"></a> Day 2 - NodeJS IV
 - Mini Project:
@@ -466,7 +476,6 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day63"></a> Day 3 - NodeJS V
 - Mini Project:
@@ -478,7 +487,6 @@
 - Project:
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day64"></a> Day 4 -  MongoDB I
 - Mini Project:
@@ -490,7 +498,6 @@
 - Project:
   - [eCommerce](https://github.com/DevMountain/ecommerce-day-one) *REVISE
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day65"></a> Day 5 -  MongoDB II
 - Mini Project:
@@ -502,9 +509,8 @@
 - Project:
   - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
 - Additional Reading:
-  - Additional Reading
 
-### <a name="week7"></a> Week 7 - Review
+### <a name="week7"></a> Week 7 - Review & Personal Projects
 #### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
 - Mini Project:
   - [TODO](#TODO)
@@ -515,7 +521,6 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day72"></a> Day 2 - Personal Projects
 #### <a name="day73"></a> Day 3 - Personal Projects
@@ -532,6 +537,8 @@
 ## <a name="unit7"></a> Unit 7 - ReactJS
 ### <a name="week9"></a> Week 9 - ReactJS
 #### <a name="day91"></a> Day 1 - React I
+- Pre-Reading:
+  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -541,9 +548,10 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day92"></a> Day 2 - React II
+- Pre-Reading:
+  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -553,9 +561,10 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day93"></a> Day 3 - React III
+- Pre-Reading:
+  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -565,9 +574,10 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day94"></a> Day 4 - React IV
+- Pre-Reading:
+  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -577,9 +587,10 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day95"></a> Day 5 - React V
+- Pre-Reading:
+  - []()
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -589,7 +600,6 @@
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 ## <a name="unit8"></a> Unit 8 - Group Projects
 ### <a name="week10"></a> Week 10 - Group Projects
@@ -609,78 +619,27 @@
 ## <a name="unit9"></a> Unit 9 - Job Prep
 ### <a name="week12"></a> Week 12 - Job Prep
 #### <a name="day121"></a> Day 1 - Job Prep
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day122"></a> Day 2 - Job Prep
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day123"></a> Day 3 - Job Prep
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day124"></a> Day 4 - Job Prep
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
-  - Additional Reading
 
 #### <a name="day125"></a> Day 5 - Job Prep
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
   - Additional Reading
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
