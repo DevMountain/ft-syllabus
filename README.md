@@ -182,9 +182,7 @@
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Pre-Reading:
-  - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html) 
-- Mini Project:
-  - [TODO](#TODO)
+  - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
@@ -214,8 +212,6 @@
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
 - Pre-Reading:
   - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/) 
-- Mini Project:
-  - [TODO](#TODO)
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
@@ -234,8 +230,6 @@
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) 
   - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/) 
   - [JS is Sexy - this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/) 
-- Mini Project:
-  - [TODO](#TODO)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
@@ -254,13 +248,12 @@
 #### <a name="day23"></a> Day 3 - Advanced JS III & JS Review
 - Pre-Reading:
   - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/) 
-- Mini Project:
-  - [TODO](#TODO)
+  - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 - Learning Objectives
   - Students will be able to define what a closure is
   - Students will be able to identify when a closure is being used
 - Project:
-  - [Closure Practice] (https://github.com/DevMountain/closurePractice)
+  - [Closure Practice](https://github.com/DevMountain/closurePractice)
   - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
 - Additional Reading:
 
