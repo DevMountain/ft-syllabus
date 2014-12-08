@@ -342,7 +342,7 @@
 - Pre-Reading:
   - [Routing with ngRoute](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
 - Mini Project:
-  - [TODO](#TODO)
+  - [MiniRoute](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
   - Students will understand the methodology behind routing and templating
   - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
