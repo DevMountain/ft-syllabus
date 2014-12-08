@@ -319,7 +319,7 @@
 - Pre-Reading:
   - [$q](http://www.webdeveasy.com/javascript-promises-and-angularjs-q-service/)
 - Mini Project:
-  - [TODO](#TODO)
+  - [User Profile III](https://github.com/DevMountain/mini-userProfiles3)
 - Learning Objectives
   - Students will be able to make $http requests to various APIs
   - Students will be able to use outside directives and know how to inject those modules into their application
