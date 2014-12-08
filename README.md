@@ -583,17 +583,17 @@
 #### <a name="day111"></a> Day 1 - Group Projects
 #### <a name="day111"></a> Day 2 - Group Projects
 
-#### <a name="day123"></a> Day 3 - Job Prep III
+#### <a name="day123"></a> Day 3 - Job Prep I
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day124"></a> Day 4 - Job Prep IIII
+#### <a name="day124"></a> Day 4 - Job Prep II
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day125"></a> Day 5 - Job Prep V
+#### <a name="day125"></a> Day 5 - Job Prep III
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
