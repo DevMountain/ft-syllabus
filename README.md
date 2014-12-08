@@ -414,8 +414,11 @@
 
 #### <a name="day55"></a> Day 5 - NodeJS II
 - Mini Project:
-  - [TODO](#TODO)
+  - [Refactor Chatty](https://github.com/DevMountain/chatty)
 - Learning Objectives
+  - Student can install express
+  - Student can use express to create REST endpoints
+  - Student can use bodyParser to examine POST data
   - Student can use middleware to add CORS headers
   - Student can access URL parameters in a web request
 - Project:
@@ -425,7 +428,7 @@
 ## <a name="week6"></a> Week 6
 #### <a name="day61"></a> Day 1 - NodeJS III
 - Mini Project:
-  - [TODO](#TODO)
+  - [Loan Calculator](https://github.com/DevMountain/Loan-Calculator)
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
@@ -437,30 +440,28 @@
 
 #### <a name="day62"></a> Day 2 - NodeJS IV
 - Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - Student can use Express to serve static files
-  - Student can use routing in Express to create basic API endpoints
-  - Student can use route params to make dynamic endpoints
-  - Student can build a front-end Angular application that connects to a back-end NodeJS API
+  - [None]
+- Review
+
 - Project:
-  - [TODO](#TODO)
+  - Finish previous projects
 - Additional Reading:
 
 #### <a name="day63"></a> Day 3 - NodeJS V
 - Mini Project:
-  - [TODO](#TODO)
+  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
+  - Student can use express sessions to restrict access to resources
+  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
+
 - Project:
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
 #### <a name="day64"></a> Day 4 -  MongoDB I
 - Mini Project:
-  - [TODO](#TODO)
+  - [Clients & USers](https://github.com/DevMountain/clients-users)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -579,21 +580,28 @@
 #### <a name="day114"></a> Day 4 - Group Projects
 #### <a name="day115"></a> Day 5 - Group Projects
 
-## <a name="week12"></a> Week 12
-#### <a name="day111"></a> Day 1 - Group Projects
-#### <a name="day111"></a> Day 2 - Group Projects
-
-#### <a name="day123"></a> Day 3 - Job Prep I
+## <a name="week12"></a> Week 12 - Job Prep
+#### <a name="day121"></a> Day 1 - Job Prep I
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day124"></a> Day 4 - Job Prep II
+#### <a name="day122"></a> Day 2 - Job Prep II
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day125"></a> Day 5 - Job Prep III
+#### <a name="day123"></a> Day 3 - Job Prep III
+- Project:
+  - [TODO](#TODO)
+- Additional Reading:
+
+#### <a name="day124"></a> Day 4 - Job Prep IIII
+- Project:
+  - [TODO](#TODO)
+- Additional Reading:
+
+#### <a name="day125"></a> Day 5 - Job Prep V
 - Project:
   - [TODO](#TODO)
 - Additional Reading:
