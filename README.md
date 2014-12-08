@@ -579,16 +579,9 @@
 #### <a name="day114"></a> Day 4 - Group Projects
 #### <a name="day115"></a> Day 5 - Group Projects
 
-## <a name="week12"></a> Week 12 - Job Prep
-#### <a name="day121"></a> Day 1 - Job Prep I
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day122"></a> Day 2 - Job Prep II
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
+## <a name="week12"></a> Week 12
+#### <a name="day111"></a> Day 1 - Group Projects
+#### <a name="day111"></a> Day 2 - Group Projects
 
 #### <a name="day123"></a> Day 3 - Job Prep III
 - Project:
