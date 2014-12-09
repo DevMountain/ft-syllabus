@@ -108,7 +108,7 @@
     - Students will know how to make a Pull Request
     - Students will be able to pull changes from the master repo
 - Project:
-  - [TODO](#TODO)
+  - [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
