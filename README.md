@@ -255,7 +255,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
+  - [Simon Says](https://github.com/DevMountain/simon-says)
 - Additional Reading:
 
 #### <a name="day25"></a> Day 5 - jQuery II
@@ -267,7 +267,7 @@
   - LEARNING OBJ
   - LEARNING OBJ
 - Project:
-  - [jQuery 2](https://github.com/DevMountain/jQuery2) *REFINE
+  - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
 
 ## <a name="week3"></a> Week 3
