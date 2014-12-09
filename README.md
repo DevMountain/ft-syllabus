@@ -329,13 +329,6 @@
 - Additional Reading:
 
 #### <a name="day35"></a> Day 5 -Angular Review I
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - TODO
-- Project:
-  - [TODO](#ifyouarereadingthiswhyareyoureadingthis)
-- Additional Reading:
 
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Angular V
@@ -367,21 +360,12 @@
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
 - Pre-Reading:
   - [Form Validation w/ NG](http://scotch.io/tutorials/javascript/angularjs-form-validation)
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
 - Project:
   - [Form Validation](https://github.com/DevMountain/formValidation) 
-- Additional Reading:
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
-- Mini Project:
-  - [TODO](#TODO)
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Angular’s $http service to make ajax requests to Parse’s RESTful endpoints, then     put that data on $scope
@@ -390,7 +374,7 @@
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
 
-#### <a name="day45"></a> Day 5 - NG Review (TODO) & No Server Project
+#### <a name="day45"></a> Day 5 - NG Review III & No Server Project
 
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - No Server Project
@@ -461,7 +445,7 @@
 
 #### <a name="day64"></a> Day 4 -  MongoDB I
 - Mini Project:
-  - [Clients & USers](https://github.com/DevMountain/clients-users)
+  - [Clients & Users](https://github.com/DevMountain/clients-users)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
@@ -580,28 +564,9 @@
 #### <a name="day114"></a> Day 4 - Group Projects
 #### <a name="day115"></a> Day 5 - Group Projects
 
-## <a name="week12"></a> Week 12 - Job Prep
-#### <a name="day121"></a> Day 1 - Job Prep I
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day122"></a> Day 2 - Job Prep II
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day123"></a> Day 3 - Job Prep III
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day124"></a> Day 4 - Job Prep IIII
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day125"></a> Day 5 - Job Prep V
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
+## <a name="week12"></a> Week 12
+#### <a name="day121"></a> Day 1 - Group Projects
+#### <a name="day122"></a> Day 2 - Group Prjects
+#### <a name="day123"></a> Day 3 - Job Prep I
+#### <a name="day124"></a> Day 4 - Job Prep II
+#### <a name="day125"></a> Day 5 - Job Prep III
