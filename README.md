@@ -249,7 +249,7 @@
 #### <a name="day24"></a> Day 4 - jQuery I
 - Pre-Reading:
 - Mini Project:
-  - [Simon Says](https://github.com/DevMountain/simon-says)
+  - [Paint](https://github.com/DevMountain/mini-paint)
 - Learning Objectives
   - Students will understand the DOM
   - Students will be able to make basic manipulations to the DOM
@@ -263,7 +263,7 @@
 #### <a name="day25"></a> Day 5 - jQuery II
 - Pre-Reading:
 - Mini Project:
-  - [Simon Says](https://github.com/DevMountain/simon-says)
+  - [Simon Says](https://github.com/DevMountain/mini-simon-says)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
