@@ -249,19 +249,21 @@
 #### <a name="day24"></a> Day 4 - jQuery I
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
   - [Simon Says](https://github.com/DevMountain/simon-says)
+- Learning Objectives
+  - Students will understand the DOM
+  - Students will be able to make basic manipulations to the DOM
+  - Students will understand visual and functional purpose of the jQuery
+- Project:
+  - [Todo List](https://github.com/devmountain/jquery2)
 - Additional Reading:
+  - [CodeAcademy](http://www.codecademy.com/en/tracks/jquery) 
+
 
 #### <a name="day25"></a> Day 5 - jQuery II
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [Simon Says](https://github.com/DevMountain/simon-says)
 - Learning Objectives
   - LEARNING OBJ
   - LEARNING OBJ
