@@ -263,11 +263,11 @@
 #### <a name="day25"></a> Day 5 - jQuery II
 - Pre-Reading:
 - Mini Project:
-  - [Simon Says](https://github.com/DevMountain/mini-simon-says)
+  - [Ajax](https://github.com/DevMountain/mini-ajax)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Students will Understand CRUD
+  - Students will be able to make GET and POST requests
+  - Students will understand why AJAX is important
 - Project:
   - [Twitter Clone](https://github.com/DevMountain/twitter-clone)
 - Additional Reading:
