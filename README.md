@@ -114,7 +114,7 @@
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Pre-Reading:
-  - [TODO](TODO)
+  - [Codecademy HTML/CSS](http://www.codecademy.com/en/tracks/web)
 - Learning Objectives
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
@@ -161,7 +161,7 @@
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
 - Pre-Reading:
-  - [TODO](TODO)
+  - [Positioning in CSS](http://quirksmode.org/css/css2/position.html)
 - Learning Objectives
   - Students will understand and be able to explain the box model to someone else
   - Students will understand media queries and be able to implement them
