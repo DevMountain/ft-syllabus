@@ -1,7 +1,7 @@
 # DevMountain Immersive Syllabus
 
 ## Index
-- [Week 1](#week1)
+- [Week 1](#week 1 is so AWESOME!!)
   - [Day 1](#day11)
   - [Day 2](#day12)
   - [Day 3](#day13)
