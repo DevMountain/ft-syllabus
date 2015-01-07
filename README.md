@@ -158,6 +158,7 @@
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
+  - [Complete Guide to Flexbox] (http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
 - Pre-Reading:
