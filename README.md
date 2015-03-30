@@ -44,41 +44,43 @@
   - [Day 5](#day65)
 
 - [Week 7](#week7)
+
+- [Week 8](#week8)
   - [Day 1](#day71)
   - [Day 2](#day72)
   - [Day 3](#day73)
   - [Day 4](#day74)
   - [Day 5](#day75)
 
-- [Week 8](#week8)
+- [Week 9](#week9)
   - [Day 1](#day81)
   - [Day 2](#day82)
   - [Day 3](#day83)
   - [Day 4](#day84)
   - [Day 5](#day85)
 
-- [Week 9](#week9)
+- [Week 10](#week10)
   - [Day 1](#day91)
   - [Day 2](#day92)
   - [Day 3](#day93)
   - [Day 4](#day94)
   - [Day 5](#day95)
 
-- [Week 10](#week10)
+- [Week 11](#week11)
   - [Day 1](#day101)
   - [Day 2](#day102)
   - [Day 3](#day103)
   - [Day 4](#day104)
   - [Day 5](#day105)
 
-- [Week 11](#week11)
+- [Week 12](#week12)
   - [Day 1](#day111)
   - [Day 2](#day112)
   - [Day 3](#day113)
   - [Day 4](#day114)
   - [Day 5](#day115)
 
-- [Week 12](#week12)
+- [Week 13](#week13)
   - [Day 1](#day121)
   - [Day 2](#day122)
   - [Day 3](#day123)
@@ -119,7 +121,7 @@
   - Students will understand the purpose of HTML
   - Students will understand the purpose of CSS
   - Students will from scratch, be able to create a skeleton for their html and css page
-  - understand and be able to use the following HTML Elements 
+  - understand and be able to use the following HTML Elements
     - p
     - footer
     - header
@@ -200,7 +202,7 @@
 ## <a name="week2"></a> Week 2
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
 - Pre-Reading:
-  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/) 
+  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
 - Learning Objectives
   - Students will understand how Objects differ from Arrays
   - Students will understand use cases for objects
@@ -216,9 +218,9 @@
 
 #### <a name="day22"></a> Day 2 - Advanced JavaScript I & II
 - Pre-Reading:
-  - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/) 
-  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/) 
-  - [JS is Sexy - this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/) 
+  - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+  - [JS is Sexy - this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
@@ -232,11 +234,11 @@
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
   - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
 - Additional Reading:
-  
+
 
 #### <a name="day23"></a> Day 3 - Advanced JS III & JS Review
 - Pre-Reading:
-  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/) 
+  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
   - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
 - Learning Objectives
   - Students will be able to define what a closure is
@@ -257,7 +259,7 @@
 - Project:
   - [Todo List](https://github.com/devmountain/jquery2)
 - Additional Reading:
-  - [CodeAcademy](http://www.codecademy.com/en/tracks/jquery) 
+  - [CodeAcademy](http://www.codecademy.com/en/tracks/jquery)
 
 
 #### <a name="day25"></a> Day 5 - jQuery II
@@ -284,11 +286,11 @@
   - Students will understand what a module, controller, directive, and service is in angular
   - Students will be able to, from scratch, build a basic angular application, put data on a controller's scope,      and bind that data to the view
   - Students will be able to ng-repeat over data
-  - Students will be able to filter data 
+  - Students will be able to filter data
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
 - Additional Reading:
-  
+
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Pre-Reading:
   - [Angular Services](http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider/)
@@ -298,7 +300,7 @@
   - Students will understand the purpose of Services in Angular
   - Students will know how to inject services into their controllers
   - Students will know how to call methods on their services from in their controllers and put the response on        $scope
-  - know the difference between factories and services 
+  - know the difference between factories and services
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
@@ -364,7 +366,7 @@
 - Pre-Reading:
   - [Form Validation w/ NG](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 - Project:
-  - [Form Validation](https://github.com/DevMountain/formValidation) 
+  - [Form Validation](https://github.com/DevMountain/formValidation)
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
 - Pre-Reading:
@@ -468,18 +470,8 @@
   - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
 - Additional Reading:
 
-## <a name="week7"></a> Week 7
-#### <a name="day71"></a> Day 1 - NodeJS / MongoDB Review
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
+## <a name="week7"></a> Week 7 (INTERIM WEEK)
+#### <a name="day71"></a> Day 1 - Personal Projects
 #### <a name="day72"></a> Day 2 - Personal Projects
 #### <a name="day73"></a> Day 3 - Personal Projects
 #### <a name="day74"></a> Day 4 - Personal Projects
@@ -493,7 +485,14 @@
 #### <a name="day85"></a> Day 5 - Personal Projects
 
 ## <a name="week9"></a> Week 9
-#### <a name="day91"></a> Day 1 - React I
+#### <a name="day91"></a> Day 1 - Personal Projects
+#### <a name="day92"></a> Day 2 - Personal Projects
+#### <a name="day93"></a> Day 3 - Personal Projects
+#### <a name="day94"></a> Day 4 - Personal Projects
+#### <a name="day95"></a> Day 5 - Personal Projects
+
+## <a name="week9"></a> Week 10
+#### <a name="day101"></a> Day 1 - React I
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -505,7 +504,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day92"></a> Day 2 - React II
+#### <a name="day102"></a> Day 2 - React II
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -517,7 +516,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day93"></a> Day 3 - React III
+#### <a name="day103"></a> Day 3 - React III
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -529,7 +528,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day94"></a> Day 4 - React IV
+#### <a name="day104"></a> Day 4 - React IV
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -541,23 +540,6 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day95"></a> Day 5 - React V
-- Pre-Reading:
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-## <a name="week10"></a> Week 10
-#### <a name="day101"></a> Day 1 - Group Projects
-#### <a name="day102"></a> Day 2 - Group Projects
-#### <a name="day103"></a> Day 3 - Group Projects
-#### <a name="day104"></a> Day 4 - Group Projects
 #### <a name="day105"></a> Day 5 - Group Projects
 
 ## <a name="week11"></a> Week 11
@@ -567,9 +549,16 @@
 #### <a name="day114"></a> Day 4 - Group Projects
 #### <a name="day115"></a> Day 5 - Group Projects
 
-## <a name="week12"></a> Week 12
+## <a name="week11"></a> Week 12
 #### <a name="day121"></a> Day 1 - Group Projects
-#### <a name="day122"></a> Day 2 - Group Prjects
-#### <a name="day123"></a> Day 3 - Job Prep I
-#### <a name="day124"></a> Day 4 - Job Prep II
-#### <a name="day125"></a> Day 5 - Job Prep III
+#### <a name="day122"></a> Day 2 - Group Projects
+#### <a name="day123"></a> Day 3 - Group Projects
+#### <a name="day124"></a> Day 4 - Group Projects
+#### <a name="day125"></a> Day 5 - Group Projects
+
+## <a name="week13"></a> Week 13
+#### <a name="day131"></a> Day 1 - Group Projects
+#### <a name="day132"></a> Day 2 - Group Prjects
+#### <a name="day133"></a> Day 3 - Job Prep I
+#### <a name="day134"></a> Day 4 - Job Prep II
+#### <a name="day135"></a> Day 5 - Job Prep III
