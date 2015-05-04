@@ -1,6 +1,5 @@
 # DevMountain Immersive Syllabus
 
-## Index
 - [Week 1](#week1)
   - [Day 1](#day11)
   - [Day 2](#day12)
@@ -466,9 +465,9 @@
  - Learning Objectives
   - Understand how and when to use embedded and referential schemas
   - Understand one-to-one, one-to-many-, and many-to-many relationships
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
+ - Project:
+   - [TODO](#TODO)
+ - Additional Reading:
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
 #### <a name="day71"></a> Day 1 - Personal Projects
