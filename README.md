@@ -464,7 +464,7 @@
   - [TODO](#TODO)
  - Learning Objectives
   - Understand how and when to use embedded and referential schemas
-  - Understand one-to-one, one-to-many-, and many-to-many relationships
+  - Understand one-to-one, one-to-many, and many-to-many relationships
  - Project:
    - [TODO](#TODO)
  - Additional Reading:
