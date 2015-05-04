@@ -445,7 +445,7 @@
    - Understand DBs, Collections, and Documents
    - Understand CRUD operations with MongoDB
 - Project:
-  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one)
+  - [eCommerce I](https://github.com/DevMountain/ecommerce-part-one)
 - Additional Reading:
 
 #### <a name="day64"></a> Day 4 -  MongoDB II
@@ -466,7 +466,7 @@
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
  - Project:
-   - [TODO](#TODO)
+   - [eCommerce III](https://github.com/DevMountain/ecommerce-part-three)
  - Additional Reading:
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
