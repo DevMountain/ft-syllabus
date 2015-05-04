@@ -433,7 +433,6 @@
   - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
   - Student can use express sessions to restrict access to resources
   - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
-
 - Project:
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
@@ -446,7 +445,7 @@
    - Understand DBs, Collections, and Documents
    - Understand CRUD operations with MongoDB
 - Project:
-  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one) *REVISE
+  - [eCommerce](https://github.com/DevMountain/ecommerce-day-one)
 - Additional Reading:
 
 #### <a name="day64"></a> Day 4 -  MongoDB II
