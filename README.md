@@ -441,11 +441,11 @@
 
 #### <a name="day63"></a> Day 3 - MongoDB I
 - Mini Project:
-  - [Clients & Users](https://github.com/DevMountain/clients-users)
+  - [Birds](https://github.com/jacob-israel-turner/mini-birds)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+   - Understand the DB's place in the web app landscape (MongoDB vs DBaaS like Firebase)
+   - Understand DBs, Collections, and Documents
+   - Understand CRUD operations with MongoDB
 - Project:
   - [eCommerce](https://github.com/DevMountain/ecommerce-day-one) *REVISE
 - Additional Reading:
@@ -454,15 +454,21 @@
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - understand what object modeling is and why it’s used
+  - understand the difference between Mongoose and MongoJS
 - Project:
-  - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
+  - [eCommerce II](https://github.com/DevMountain/ecommerce-part-two)
 - Additional Reading:
 
 #### <a name="day65"></a> Day 5 -  MongoDB III
-TODO
+ - Mini Project:
+  - [TODO](#TODO)
+ - Learning Objectives
+  - Understand how and when to use embedded and referential schemas
+  - Understand one-to-one, one-to-many-, and many-to-many relationships
+- Project:
+  - [TODO](#TODO)
+- Additional Reading:
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
 #### <a name="day71"></a> Day 1 - Personal Projects
