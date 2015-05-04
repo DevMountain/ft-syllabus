@@ -429,15 +429,6 @@
 
 #### <a name="day62"></a> Day 2 - NodeJS IV
 - Mini Project:
-  - [None]
-- Review
-
-- Project:
-  - Finish previous projects
-- Additional Reading:
-
-#### <a name="day63"></a> Day 3 - NodeJS V
-- Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
   - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
@@ -448,7 +439,7 @@
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
-#### <a name="day64"></a> Day 4 -  MongoDB I
+#### <a name="day63"></a> Day 3 - MongoDB I
 - Mini Project:
   - [Clients & Users](https://github.com/DevMountain/clients-users)
 - Learning Objectives
@@ -459,7 +450,7 @@
   - [eCommerce](https://github.com/DevMountain/ecommerce-day-one) *REVISE
 - Additional Reading:
 
-#### <a name="day65"></a> Day 5 -  MongoDB II
+#### <a name="day64"></a> Day 4 -  MongoDB II
 - Mini Project:
   - [TODO](#TODO)
 - Learning Objectives
@@ -469,6 +460,9 @@
 - Project:
   - [eCommerce II](https://github.com/DevMountain/ecommerce-day-two) *REVISE
 - Additional Reading:
+
+#### <a name="day65"></a> Day 5 -  MongoDB III
+TODO
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
 #### <a name="day71"></a> Day 1 - Personal Projects
