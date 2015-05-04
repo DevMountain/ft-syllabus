@@ -465,7 +465,6 @@
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
-
  - Project:
    - [TODO](#TODO)
  - Additional Reading:
