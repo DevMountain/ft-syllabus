@@ -491,7 +491,7 @@
 #### <a name="day95"></a> Day 5 - Personal Projects
 
 ## <a name="week9"></a> Week 10
-#### <a name="day101"></a> Day 1 - React I
+#### <a name="day101"></a> Day 1 - Advanced JS I
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -503,7 +503,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day102"></a> Day 2 - React II
+#### <a name="day102"></a> Day 2 - Advanced JS II
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -515,7 +515,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day103"></a> Day 3 - React III
+#### <a name="day103"></a> Day 3 - React I
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -527,7 +527,7 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day104"></a> Day 4 - React IV
+#### <a name="day104"></a> Day 4 - React II
 - Pre-Reading:
 - Mini Project:
   - [TODO](#TODO)
@@ -539,7 +539,17 @@
   - [TODO](#TODO)
 - Additional Reading:
 
-#### <a name="day105"></a> Day 5 - Group Projects
+#### <a name="day104"></a> Day 4 - React III
+- Pre-Reading:
+- Mini Project:
+  - [TODO](#TODO)
+- Learning Objectives
+  - LEARNING OBJ
+  - LEARNING OBJ
+  - LEARNING OBJ
+- Project:
+  - [TODO](#TODO)
+- Additional Reading:
 
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - Group Projects
