@@ -174,6 +174,7 @@
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
+  - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
