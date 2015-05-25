@@ -174,7 +174,6 @@
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
-  - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
 - Learning Objectives
   - Students will understand how the web works:
     - front-end vs back-end
@@ -188,64 +187,53 @@
     - global and local scope
     - anonymous functions
     - return values and how to save the returned value to another variable
-  - Students will understand Arrays:
+- Projects:
+  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
+- Additional Reading:
+  - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+## <a name="week2"></a> Week 2
+#### <a name="day21"></a> Day 1 - JavaScript Fundamentals II & III
+- Pre-Reading:
+  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
+- Learning Objectives
+  - Objects
+    - Students will understand use cases for objects
+    - Students will understand how to create and add properties/values to objects
+    - Students will understand how to loop through objects
+    - Students will understand how to create and invoke a method
+    - Students will understand bracket notation vs dot notation
+    - Students will understand how to remove keys/props from objects (delete)
+  - Arrays
     - purpose
     - how to get values from arrays
     - array properties (length, push/pop, shift/unshift, split/join, splice/slice, reverse, indexOf)
     - how to create an array
     - how to loop through an array
 - Projects:
-  - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
+  - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
   - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
 
-## <a name="week2"></a> Week 2
-#### <a name="day21"></a> Day 1 - JavaScript Fundamentals III
+#### <a name="day22"></a> Day 2 - JS Fundamentals IV (this)
 - Pre-Reading:
-  - [JS is Sexy - Objects](http://javascriptissexy.com/javascript-objects-in-detail/)
+  - 
 - Learning Objectives
-  - Students will understand how Objects differ from Arrays
-  - Students will understand use cases for objects
-  - Students will understand how to create and add properties/values to objects
-  - Students will understand how to loop through objects
-  - Students will understand how to create and invoke a method
-  - Students will understand bracket notation vs dot notation
-  - Students will understand how to remove keys/props from objects (delete)
+  - 
 - Projects:
-  - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
-  - [War](https://github.com/DevMountain/war)
+  - 
 - Additional Reading:
 
-#### <a name="day22"></a> Day 2 - Advanced JavaScript I & II
+
+#### <a name="day23"></a> Day 3 - JS Fundamentals V
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
-  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
-  - [JS is Sexy - this](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
-  - Students will understand the difference between the maker pattern and constructor pattern
-  - Students will understand what the ‘this’ keyword does and be able to use it
-  - Students will understand what the ‘new’ keyword does and what the JavaScript compiler does when a function is       called with the ‘new’ keyword
-  - Students will understand what prototypes are in JavaScript and be able to add a method on a functions prototype and create instances of that function that invoke the prototypes method
-- Projects:
-  - [Callback Practice](https://github.com/DevMountain/callbackPractice)
-  - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
-- Additional Reading:
-
-
-#### <a name="day23"></a> Day 3 - Advanced JS III & JS Review
-- Pre-Reading:
-  - [JS is Sexy - Closures](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
-  - [JS is Sexy - Scopes and Hoisting](http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/)
-- Learning Objectives
-  - Students will be able to define what a closure is
-  - Students will be able to identify when a closure is being used
 - Project:
-  - [Closure Practice](https://github.com/DevMountain/closurePractice)
-  - [JavaScript Review](https://github.com/DevMountain/JavaScript-Review)
+  - [Callback Practice](https://github.com/DevMountain/callbackPractice)
 - Additional Reading:
 
 #### <a name="day24"></a> Day 4 - jQuery I
