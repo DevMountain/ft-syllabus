@@ -171,7 +171,7 @@
   - [SLC Dental](http://www.slcdentalcenter.com/)
 - Additional Reading:
 
-#### <a name="day15"></a> Day 5 - JavaScript Fundamentals I & II
+#### <a name="day15"></a> Day 5 - JavaScript Fundamentals I
 - Pre-Reading:
   - [Eloquent JavaScript - Functions](http://eloquentjavascript.net/03_functions.html)
 - Learning Objectives
@@ -187,10 +187,12 @@
     - global and local scope
     - anonymous functions
     - return values and how to save the returned value to another variable
+  - Closures
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
 - Additional Reading:
   - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+
 ## <a name="week2"></a> Week 2
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals II & III
 - Pre-Reading:
