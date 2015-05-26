@@ -216,13 +216,21 @@
   - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
 
-#### <a name="day22"></a> Day 2 - JS Fundamentals IV (this)
+#### <a name="day22"></a> Day 2 - JS Fundamentals IV
 - Pre-Reading:
-  - 
+  - [This with Clarity](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - Learning Objectives
-  - 
+  - the purpose of the ‘this’ keyword
+    - 4 rules for determining what ‘this’ is bound to
+      - Implicit Binding
+      - Explicit Binding
+        - call
+        - apply
+        - bind
+      - new binding
+      - Default Binding
 - Projects:
-  - 
+  - [The This Keyword](https://github.com/DevMountain/the-keyword-this)
 - Additional Reading:
 
 
@@ -236,6 +244,7 @@
   - Students will be able to identify and use callbacks
 - Project:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
+  - [Utilities](https://github.com/DevMountain/utilities)
 - Additional Reading:
 
 #### <a name="day24"></a> Day 4 - jQuery I
