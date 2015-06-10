@@ -362,10 +362,7 @@
 - Additional Reading:
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
-- Pre-Reading:
-  - [Form Validation w/ NG](http://scotch.io/tutorials/javascript/angularjs-form-validation)
-- Project:
-  - [Form Validation](https://github.com/DevMountain/formValidation)
+- Review Day
 
 #### <a name="day44"></a> Day 4 - Parse & Firebase
 - Pre-Reading:
