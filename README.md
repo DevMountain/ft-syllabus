@@ -458,7 +458,14 @@
 #### <a name="day65"></a> Day 5 -  Personal Projects
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
-#### <a name="day71"></a> Day 1 - NodeJS IV
+#### <a name="day71"></a> Day 1 - Personal Projects
+#### <a name="day72"></a> Day 2 - Personal Projects
+#### <a name="day73"></a> Day 3 - Personal Projects
+#### <a name="day74"></a> Day 4 - Personal Projects
+#### <a name="day75"></a> Day 5 - Personal Projects
+
+## <a name="week8"></a> Week 8
+#### <a name="day81"></a> Day 1 - NodeJS IV
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
 - Learning Objectives
@@ -468,13 +475,7 @@
 - Project:
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
-#### <a name="day72"></a> Day 2 - Personal Projects
-#### <a name="day73"></a> Day 3 - Personal Projects
-#### <a name="day74"></a> Day 4 - Personal Projects
-#### <a name="day75"></a> Day 5 - Personal Projects
 
-## <a name="week8"></a> Week 8
-#### <a name="day81"></a> Day 1 - Personal Projects
 #### <a name="day82"></a> Day 2 - Personal Projects
 #### <a name="day83"></a> Day 3 - Personal Projects
 #### <a name="day84"></a> Day 4 - Personal Projects
