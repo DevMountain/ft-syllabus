@@ -446,7 +446,7 @@
 
 #### <a name="day64"></a> Day 4 -  MongoDB III
  - Mini Project:
-  - [TODO](#TODO)
+  - [Mini-Birds Related](https://github.com/dallincrane/mini-birds-related)
  - Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
