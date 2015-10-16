@@ -278,6 +278,7 @@
 - Pre-Reading:
   - [Starting with Angular](http://stephanebegaudeau.tumblr.com/post/48776908163/everything-you-need-to-understand-to-start-with)
   - [Conceptual Intro to Angular](http://paislee.io/a-conceptual-introduction-to-angularjs/)
+  - [Watch "Angular in 60-ish Minutes"](https://www.youtube.com/watch?v=i9MHigUZKEM)
 - Mini Project:
   - [Babies first Angular](https://github.com/DevMountain/mini-BabiesFirstAngular)
 - Learning Objectives
