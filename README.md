@@ -168,7 +168,7 @@
   - Students will understand media queries and be able to implement them
   - Students will understand when and when not to use floating elements
 - Project:
-  - [SLC Dental](http://www.slcdentalcenter.com/)
+  - [WideopenTech](http://wideopentech.com/) - Clone the homepage for this website
 - Additional Reading:
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I
