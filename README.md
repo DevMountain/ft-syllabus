@@ -112,6 +112,8 @@
   - [Learn Git](https://github.com/DevMountain/learn-git)
 - Additional Reading:
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- Assessment
+  - [Command Line and git](https://codecard.io/a/sequence/N4XGkKbju)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Pre-Reading:
