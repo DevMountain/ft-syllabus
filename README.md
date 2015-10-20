@@ -91,6 +91,7 @@
 - Pre-Reading:
   - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
   - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+  - **Make sure you [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)**
 - Learning Objectives
     - Students will understand and be able to use the command line for
       - creating a folder
@@ -98,19 +99,22 @@
       - editing a file
       - changing directories
     - Students will understand what Git and Github are and how they fit into the web app landscape
-    - Students will be able to Fork a repo and know it’s purpose
-    - Students will be able to clone a repo and know it’s purpose
+    - Students will be able to clone a repo and know its purpose
     - Students will be able to add, commit, and push files to github
-    - Students will understand branching and it’s purpose
+    - Students will understand basic branching
     - Students will understand how to use github in a group setting
-    - Students will know how to create an upstream to master
-    - Students will be able to handle merge conflicts
-    - Students will be able to minimally manage vim to escape merge conflict messages
-    - Students will know how to make a Pull Request
-    - Students will be able to pull changes from the master repo
+      - Students be able to understand what a "Fork" is and be able to Fork a repo
+      - Students will be able to handle merge conflicts
+      - Students will be able to minimally manage vim to escape merge conflict messages
+      - Students will know how to make a Pull Request
 - Project:
   - [Learn Git](https://github.com/DevMountain/learn-git)
+- Additional Practice:
+  - [Learn Git Branching] (http://pcottle.github.io/learnGitBranching/)
 - Additional Reading:
+  - [The Command Line Crash Course] (http://cli.learncodethehardway.org/book/)
+  - [Lecture archive] (https://vimeo.com/groups/331341/videos/142188795)
+  - [Visual Git guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
