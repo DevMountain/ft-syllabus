@@ -116,6 +116,8 @@
   - [Lecture archive] (https://vimeo.com/groups/331341/videos/142188795)
   - [Visual Git guide] (http://marklodato.github.io/visual-git-guide/index-en.html)
   - [Getting Started with Git](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- Assessment
+  - [Command Line & git](https://codecard.io/a/sequence/N4XGkKbju)
 
 #### <a name="day12"></a> Day 2 - HTML & CSS Fundamentals
 - Pre-Reading:
@@ -148,6 +150,8 @@
 - Project:
   - [HTML Layouts](https://github.com/DevMountain/html-layout)
 - Additional Reading:
+- Assessment
+  - [HTML](https://codecard.io/a/sequence/BE04fHLj2)
 
 #### <a name="day13"></a> Day 3 - HTML & CSS Positioning
 - Pre-Reading:
@@ -163,6 +167,8 @@
   - [HTML Layout 2](https://github.com/DevMountain/html-layouts-2)
   - [Wikimedia Layout](https://github.com/DevMountain/wikimedia-layout)
 - Additional Reading:
+- Assessment
+  - [CSS Positioning](https://codecard.io/a/sequence/N48JWYIl2)
 
 #### <a name="day14"></a> Day 4 - Advanced HTML & CSS
 - Pre-Reading:
@@ -174,6 +180,8 @@
 - Project:
   - [WideopenTech](http://wideopentech.com/) - Clone the homepage for this website
 - Additional Reading:
+- Assessment
+  - [Advanced CSS](https://codecard.io/a/sequence/drowaufeV)
 
 #### <a name="day15"></a> Day 5 - JavaScript Fundamentals I
 - Pre-Reading:
@@ -196,6 +204,9 @@
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
 - Additional Reading:
   - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+- Assessments
+  - [JS Fundamentals I](https://codecard.io/a/sequence/74hCukylV)
+  - [Advanced JS Problems](https://codecard.io/a/sequence/N4cJ_s7lR)
 
 ## <a name="week2"></a> Week 2
 #### <a name="day21"></a> Day 1 - JavaScript Fundamentals II & III
@@ -219,6 +230,8 @@
   - [JavaScript Objects](https://github.com/DevMountain/object-fiddles)
   - [JavaScript Arrays](https://github.com/DevMountain/JS-Arrays)
 - Additional Reading:
+- Assessment
+  - [JS Fundamentals II & III](https://codecard.io/a/sequence/NE7Le2j0R)
 
 #### <a name="day22"></a> Day 2 - JS Fundamentals IV
 - Pre-Reading:
@@ -236,6 +249,8 @@
 - Projects:
   - [The This Keyword](https://github.com/DevMountain/the-keyword-this)
 - Additional Reading:
+- Assessment
+  - [JS Fundamentals IV](https://codecard.io/a/sequence/NY1gPKpju)
 
 
 #### <a name="day23"></a> Day 3 - JS Fundamentals V
@@ -250,6 +265,8 @@
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
   - [Utilities](https://github.com/DevMountain/utilities)
 - Additional Reading:
+- Assessment
+  - [JS Fundamentals V](https://codecard.io/a/sequence/B4otuPc52)
 
 #### <a name="day24"></a> Day 4 - jQuery I
 - Pre-Reading:
@@ -263,6 +280,8 @@
   - [Todo List](https://github.com/devmountain/jquery2)
 - Additional Reading:
   - [CodeAcademy](http://www.codecademy.com/en/tracks/jquery)
+- Assessment
+  - [jQuery I](https://codecard.io/a/sequence/N4mpVQGj2)
 
 
 #### <a name="day25"></a> Day 5 - jQuery II
@@ -308,6 +327,8 @@
 - Project:
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
+- Assessment
+  - [AngularJS II - Services](https://codecard.io/a/sequence/dYsMX9ChR)
 
 #### <a name="day33"></a> Day 3 - AngularJS III
 - Pre-Reading:
@@ -323,6 +344,8 @@
 - Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
+- Assessment
+  - [AngularJS III - $http](https://codecard.io/a/sequence/7465nq9JV)
 
 #### <a name="day34"></a> Day 4 - AngularJS IV
 - Pre-Reading:
@@ -336,6 +359,8 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
+- Assessment
+  - [AngularJS IV - APIs](https://codecard.io/a/sequence/Bri37FtZV)
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 
@@ -353,6 +378,8 @@
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
+- Assessment
+  - [AngularJS V - Routing](https://codecard.io/a/sequence/NEyPyQlhV)
 
 #### <a name="day42"></a> Day 2 - Angular VI
 - Pre-Reading:
@@ -365,6 +392,8 @@
 - Project:
   - [Angular Directives](https://github.com/dckesler/Angular-Directive-Project)
 - Additional Reading:
+- Assessment
+  - [AngularJS VI - Directives](https://codecard.io/a/sequence/7YFUaTqZV)
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
 - Review Day
