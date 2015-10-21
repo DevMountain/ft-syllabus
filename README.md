@@ -324,7 +324,7 @@
   - [Quote Book](https://github.com/DevMountain/quoteBook)
 - Additional Reading:
 - Assessment
-  - [Angular - Services](https://codecard.io/a/sequence/dYsMX9ChR)
+  - [Angular II - Services](https://codecard.io/a/sequence/dYsMX9ChR)
 
 #### <a name="day33"></a> Day 3 - AngularJS III
 - Pre-Reading:
@@ -340,6 +340,8 @@
 - Project:
   - [Chatroom](https://github.com/DevMountain/chatroom)
 - Additional Reading:
+- Assessment
+  - [Angular III - $http](https://codecard.io/a/sequence/7465nq9JV)
 
 #### <a name="day34"></a> Day 4 - AngularJS IV
 - Pre-Reading:
@@ -353,6 +355,8 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
+- Assessment
+  - [Angular IV - APIs](https://codecard.io/a/sequence/Bri37FtZV)
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 
@@ -370,6 +374,8 @@
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
+- Assessment
+  - [Angular V - Routing](https://codecard.io/a/sequence/NEyPyQlhV)
 
 #### <a name="day42"></a> Day 2 - Angular VI
 - Pre-Reading:
@@ -382,6 +388,8 @@
 - Project:
   - [Angular Directives](https://github.com/dckesler/Angular-Directive-Project)
 - Additional Reading:
+- Assessment
+  - [Angular VI - Directives](https://codecard.io/a/sequence/7YFUaTqZV)
 
 #### <a name="day43"></a> Day 3 - Angular Review II / Panel
 - Review Day
