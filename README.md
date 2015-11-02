@@ -367,14 +367,14 @@
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Angular V
 - Pre-Reading:
-  - [Routing with ngRoute](http://scotch.io/tutorials/javascript/single-page-apps-with-angularjs-routing-and-templating)
+  - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
 - Mini Project:
   - [MiniRoute](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
   - Students will understand the methodology behind routing and templating
-  - Students will be able to set up a basic routing system with multiple views and controllers using ngRoute
-  - Students will be able to use resolve to resolve data and pass in data to their controller before their            controller initializes
-  - Students will be able to use routeParams to gather data from the URL
+  - Students will be able to set up a basic routing system with multiple views and controllers using UI-Router
+  - Students will be able to use resolve to resolve data and pass in data to their controller before theirn controller initializes
+  - Students will be able to use stateParams to gather data from the URL
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
 - Additional Reading:
