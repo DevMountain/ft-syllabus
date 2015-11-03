@@ -390,7 +390,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Angular Directives](https://github.com/dckesler/Angular-Directive-Project)
+  - [Angular Directives](https://github.com/DevMountain/Angular-Directive-Project)
 - Additional Reading:
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
