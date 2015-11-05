@@ -360,6 +360,7 @@
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
   - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME) 
+  - [JSONP](https://en.wikipedia.org/wiki/JSONP)
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
 
