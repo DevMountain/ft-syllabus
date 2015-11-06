@@ -420,6 +420,14 @@
 
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - No Server Project
+- Requirements
+  - At least 3 routes
+  - At least 2 directives
+    - 1 directive can be just a templateUrl for code re-use
+    - 1 directive needs to do some javascript (event if it's just elem.css({}) in the link function)
+  - [Bonus] Use firebase or an API
+    - This should take a back seat to making a solid project with angular
+  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to google for 'inspiration' to mimic.
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
