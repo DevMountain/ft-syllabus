@@ -370,6 +370,9 @@
 #### <a name="day41"></a> Day 1 - Angular V
 - Pre-Reading:
   - [Routing with UI-Router](https://scotch.io/tutorials/angular-routing-using-ui-router)
+- Install these before class!:
+  - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
+  - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 - Mini Project:
   - [MiniRoute](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
