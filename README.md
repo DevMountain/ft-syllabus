@@ -395,7 +395,7 @@
   - Students will understand how Directives fit into the Angular ecosystem
   - Students will be able to create a custom directive and use it in a view
 - Project:
-  - [Angular Directives](https://github.com/DevMountain/Angular-Directive-Project)
+  - [Lesson Hider Directive](https://github.com/r-walsh/lesson-hider-directive)
 - Additional Reading:
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
