@@ -397,6 +397,7 @@
 - Project:
   - [Lesson Hider Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Additional Reading:
+  - [Directive tutorial](https://github.com/squireaj/PRankings)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
