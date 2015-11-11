@@ -398,6 +398,7 @@
   - [Lesson Hider Directive](https://github.com/DevMountain/lesson-hider-directive)
 - Additional Reading:
   - [PRankings Directive](https://github.com/squireaj/PRankings)
+  - [Dave Smith Presentation on Custom Directives](https://www.youtube.com/watch?v=UMkd0nYmLzY)
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
