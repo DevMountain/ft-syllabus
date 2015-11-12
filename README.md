@@ -447,7 +447,7 @@
   - Student can create a HTTP NodeJS server using express
   - Students can explain endpoints and create basic ones testing them with Postman
 - Project:
-  - Rewrite in progress
+  - [Chatty](https://github.com/DevMountain/chatty)
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
