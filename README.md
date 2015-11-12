@@ -439,39 +439,43 @@
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
+  - Students understand what Node is and that it can be used as a server
   - Student will understand how HTTP works to communicate between client & server
-  - Student can create a basic HTTP NodeJS server
-  - Student can use basic REST verbs (GET, POST)
-  - Student understands and can implement basic CORS headers
-  - Student can use "require" to import a Node module
+  - Student will understand the need for a module like `express`
+  - Student can use `require` to import a Node module
+  - Student will understand the basic utility of a package.json file
+  - Student can create a HTTP NodeJS server using express
+  - Students can explain endpoints and create basic ones testing them with Postman
 - Project:
-  - [Chatty](https://github.com/devmountain/chatty)
+  - Rewrite in progress
 - Additional Reading:
+  - https://www.thenewboston.com/videos.php?cat=355
 
 #### <a name="day55"></a> Day 5 - NodeJS II
 - Mini Project:
-  - [Refactor Chatty](https://github.com/DevMountain/chatty)
+  - Rewrite in Progress
 - Learning Objectives
-  - Student can install express
-  - Student can use express to create REST endpoints
-  - Student can use bodyParser to examine POST data
-  - Student can use middleware to add CORS headers
-  - Student can access URL parameters in a web request
+  - Student can require other .js files in the project
+  - Student can use bodyParser to get data out of the body
+  - Student can use req.params
+  - Student is introduced to req.query
+  - Student understands the request response lifecycle in express including the order in which functions are called
+  - Student can utilize middleware
 - Project:
-  - [Personal API](https://github.com/DevMountain/personal-api)
+  - Rewrite in Progress
 - Additional Reading:
 
 ## <a name="week6"></a> Week 6
 #### <a name="day61"></a> Day 1 - NodeJS III
 - Mini Project:
-  - [Loan Calculator](https://github.com/DevMountain/Loan-Calculator)
+  - Rewrite in Progress
 - Learning Objectives
   - Student can use Express to serve static files
   - Student can use routing in Express to create basic API endpoints
   - Student can use route params to make dynamic endpoints
   - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
-  - [TextSupport](https://github.com/DevMountain/TextSupport)
+  - Rewrite in Progress
 - Additional Reading:
 
 #### <a name="day62"></a> Day 2 - MongoDB I
