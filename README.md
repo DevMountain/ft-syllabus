@@ -411,6 +411,7 @@
 - Learning Objectives
   - Students will understand the term CRUD
   - Students will be able to use Firebase in angular to persist data to a server
+- Mini-Project : [CarFire](https://github.com/DevMountain/carFire)
 - Project:
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
