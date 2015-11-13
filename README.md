@@ -463,7 +463,7 @@
   - Student understands the request response lifecycle in express including the order in which functions are called
   - Student can utilize middleware
 - Project:
-  - Rewrite in Progress
+  - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
 ## <a name="week6"></a> Week 6
