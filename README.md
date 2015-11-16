@@ -476,7 +476,7 @@
   - Student can use route params to make dynamic endpoints
   - Student can build a front-end Angular application that connects to a back-end NodeJS API
 - Project:
-  - Rewrite in Progress
+  - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
 #### <a name="day62"></a> Day 2 - MongoDB I
