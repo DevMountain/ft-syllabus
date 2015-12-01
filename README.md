@@ -547,65 +547,54 @@
 #### <a name="day95"></a> Day 5 - Personal Projects
 
 ## <a name="week9"></a> Week 10
-#### <a name="day101"></a> Day 1 - Advanced JS I
+#### <a name="day101"></a> Day 1 - React I
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [mini-todo-list](https://github.com/ReactWeek/mini1-todolist)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand how React compares to other Front End frameworks like Angular and Ember
+  - Understand how to use Webpack to set up a build process for your React App
+  - Understand how to build a component which modifies and maintains it’s own state
+  - Understand how to pass data into child components as props
+  - Understand how to use CSS with React as well as “inline” styles
+CSS in React
+  - Understand how to keep your components state up to date as well as invoke other methods in your component.
+
 - Project:
-  - [TODO](#TODO)
+  - [todo-collection](https://github.com/ReactWeek/todo-collection)
 - Additional Reading:
 
-#### <a name="day102"></a> Day 2 - Advanced JS II
+#### <a name="day102"></a> Day 2 - React II
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand the Life Cycle of a Components
+  - Understand how to use propTypes and getDefaultProps 
+  - Understand what Mixins are and how they’re useful
+  - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [TODO](#TODO)
+  - [react-tunes](https://github.com/ReactWeek/react-tunes)
 - Additional Reading:
 
-#### <a name="day103"></a> Day 3 - React I
+#### <a name="day103"></a> Day 3 - React III
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand the purpose and benefits of Flux
+  - Understand how to architect a Flux app with the following 
+    - actions
+    - stores
+    - constants
+    - dispatcher
+    - components
 - Project:
-  - [TODO](#TODO)
+  - [note-taker](https://github.com/ReactWeek/github-notetaker)
 - Additional Reading:
 
-#### <a name="day104"></a> Day 4 - React II
-- Pre-Reading:
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day104"></a> Day 4 - React III
-- Pre-Reading:
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
+#### <a name="day104"></a> Day 4 - Group Projects
+#### <a name="day105"></a> Day 5 - Group Projects
 
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - Group Projects
