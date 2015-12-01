@@ -428,9 +428,9 @@
   - At least 2 directives
     - 1 directive can be just a templateUrl for code re-use
     - 1 directive needs to do some javascript (event if it's just elem.css({}) in the link function)
-  - [Bonus] Use firebase or an API
+  - [Bonus] Use Firebase or an API
     - This should take a back seat to making a solid project with angular
-  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to google for 'inspiration' to mimic.
+  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to Google for 'inspiration' to mimic.
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
@@ -480,6 +480,8 @@
 - Additional Reading:
 
 #### <a name="day62"></a> Day 2 - MongoDB I
+- Before class:
+  - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Mini Project:
   - [Birds](https://github.com/jacob-israel-turner/mini-birds)
 - Learning Objectives
