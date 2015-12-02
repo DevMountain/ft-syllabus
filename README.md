@@ -489,7 +489,7 @@
    - Understand DBs, Collections, and Documents
    - Understand CRUD operations with MongoDB
 - Project:
-  - [eCommerce I](https://github.com/DevMountain/ecommerce-part-one)
+  - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
 - Additional Reading:
 
 #### <a name="day63"></a> Day 3 - MongoDB II
@@ -499,18 +499,18 @@
   - understand what object modeling is and why it’s used
   - understand the difference between Mongoose and MongoJS
 - Project:
-  - [eCommerce II](https://github.com/DevMountain/ecommerce-part-two)
+  - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
 - Additional Reading:
 
 #### <a name="day64"></a> Day 4 -  MongoDB III
  - Mini Project:
-  - [Mini-Birds Related](https://github.com/dallincrane/mini-birds-related)
+  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
  - Project:
-   - [eCommerce III](https://github.com/DevMountain/ecommerce-part-three)
+   - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
 
 #### <a name="day65"></a> Day 5 -  Personal Projects
