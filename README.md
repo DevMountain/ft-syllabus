@@ -494,7 +494,7 @@
 
 #### <a name="day63"></a> Day 3 - MongoDB II
 - Mini Project:
-  - [Mini-Birds Mongoose](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fdallincrane%2Fmini-birds-mongoose&sa=D&sntz=1&usg=AFQjCNFNmty01wuxbCq-U1Z_hI0OFlWWBw)
+  - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
   - understand what object modeling is and why it’s used
   - understand the difference between Mongoose and MongoJS
