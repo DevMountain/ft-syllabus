@@ -256,13 +256,17 @@
 #### <a name="day23"></a> Day 3 - JS Fundamentals V
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
+  - Students will undrestand what prototypes are in JavaScript 
+  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Project:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
+  - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
   - [Utilities](https://github.com/DevMountain/utilities)
 - Additional Reading:
 - Assessment
