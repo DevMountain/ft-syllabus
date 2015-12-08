@@ -438,9 +438,7 @@
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
-#### <a name="day53"></a> Day 3 - No Server Project
-
-#### <a name="day54"></a> Day 4 - NodeJS I
+#### <a name="day53"></a> Day 2 - NodeJS I
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -456,7 +454,7 @@
 - Additional Reading:
   - https://www.thenewboston.com/videos.php?cat=355
 
-#### <a name="day55"></a> Day 5 - NodeJS II
+#### <a name="day54"></a> Day 4 - NodeJS II
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -470,8 +468,7 @@
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
-## <a name="week6"></a> Week 6
-#### <a name="day61"></a> Day 1 - NodeJS III
+#### <a name="day55"></a> Day 5 - NodeJS III
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -483,7 +480,10 @@
   - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
-#### <a name="day62"></a> Day 2 - MongoDB I
+
+## <a name="week6"></a> Week 6
+
+#### <a name="day61"></a> Day 1 - MongoDB I
 - Before class:
   - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Mini Project:
@@ -496,7 +496,7 @@
   - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
 - Additional Reading:
 
-#### <a name="day63"></a> Day 3 - MongoDB II
+#### <a name="day62"></a> Day 2 - MongoDB II
 - Mini Project:
   - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
@@ -506,7 +506,7 @@
   - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
 - Additional Reading:
 
-#### <a name="day64"></a> Day 4 -  MongoDB III
+#### <a name="day63"></a> Day 3 -  MongoDB III
  - Mini Project:
   - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
@@ -516,6 +516,17 @@
  - Project:
    - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
+ 
+ #### <a name="day64"></a> Day 4 - NodeJS IV
+- Mini Project:
+  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
+- Learning Objectives
+  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
+  - Student can use express sessions to restrict access to resources
+  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
+- Project:
+  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
+- Additional Reading:
 
 #### <a name="day65"></a> Day 5 -  Personal Projects
 
@@ -528,17 +539,7 @@
 
 ## <a name="week8"></a> Week 8
 #### <a name="day81"></a> Day 1 - Personal Projects
-#### <a name="day82"></a> Day 2 - NodeJS IV
-- Mini Project:
-  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
-- Learning Objectives
-  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
-  - Student can use express sessions to restrict access to resources
-  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
-- Project:
-  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
-- Additional Reading:
-
+#### <a name="day82"></a> Day 2 - Personal Projects
 #### <a name="day83"></a> Day 3 - Personal Projects
 #### <a name="day84"></a> Day 4 - Personal Projects
 #### <a name="day85"></a> Day 5 - Personal Projects
