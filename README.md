@@ -316,6 +316,8 @@
   - Students will be able to filter data
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
+- Weeklong Project: 
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)   
 - Additional Reading:
 
 #### <a name="day32"></a> Day 2 - AngularJS II
