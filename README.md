@@ -319,6 +319,8 @@
 - Weeklong Project: 
   - [DevMt.In](https://github.com/DevMountain/dev-mt-in)   
 - Additional Reading:
+- Assessment
+  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
 
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Pre-Reading:
