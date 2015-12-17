@@ -374,6 +374,8 @@
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 
+## In-class practice project : [Angular Drills](https://github.com/DevMountain/angular-drills)
+
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Angular V
 - Pre-Reading:
