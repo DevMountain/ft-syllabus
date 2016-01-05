@@ -412,10 +412,7 @@
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
-#### <a name="day43"></a> Day 3 - Angular Review II
-- Review Day
-
-#### <a name="day44"></a> Day 4 -  Firebase
+#### <a name="day43"></a> Day 3 -  Firebase
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Learning Objectives
@@ -426,10 +423,14 @@
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
 
-#### <a name="day45"></a> Day 5 - Firebase II & No Server Project
+#### <a name="day44"></a> Day 4 - Firebase II & No Server Project
 - Learning Objectives
   - Students will understand how to use Firebase's authentication system
   - Students will start on their no server project
+
+#### <a name="day45"></a> Day 5 - Angular & Firebase Review II
+- Review & No server project Day
+
 
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - No Server Project
