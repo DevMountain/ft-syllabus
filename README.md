@@ -445,7 +445,7 @@
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
-#### <a name="day53"></a> Day 2 - NodeJS I
+#### <a name="day53"></a> Day 3 - NodeJS I
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
