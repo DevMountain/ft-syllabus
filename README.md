@@ -1,4 +1,4 @@
-# DevMountain Immersive Syllabus
+# DevMountain Immersive Syllabi
 
 - [Week 1](#week1)
   - [Day 1](#day11)
