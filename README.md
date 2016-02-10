@@ -262,7 +262,7 @@
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
-  - Students will undrestand what prototypes are in JavaScript 
+  - Students will understand what prototypes are in JavaScript
   - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Project:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
@@ -316,8 +316,8 @@
   - Students will be able to filter data
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
-- Weeklong Project: 
-  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)   
+- Weeklong Project:
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Additional Reading:
 - Assessment
   - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
@@ -459,7 +459,7 @@
 - Project:
   - [Chatty](https://github.com/DevMountain/chatty)
 - Additional Reading:
-  - https://www.thenewboston.com/videos.php?cat=355
+  - [Node Basics Video Series](https://www.thenewboston.com/videos.php?cat=355)
 
 #### <a name="day54"></a> Day 4 - NodeJS II
 - Mini Project:
@@ -523,7 +523,18 @@
  - Project:
    - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
- 
+
+ #### <a name="day64"></a> Day 4 - NodeJS IV
+- Mini Project:
+  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
+- Learning Objectives
+  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
+  - Student can use express sessions to restrict access to resources
+  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
+- Project:
+  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
+- Additional Reading:
+
  #### <a name="day64"></a> Day 4 - NodeJS IV
 - Mini Project:
   - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
@@ -562,16 +573,15 @@
 #### <a name="day101"></a> Day 1 - React I
 - Pre-Reading:
 - Mini Project:
-  - [mini-todo-list](https://github.com/ReactWeek/mini1-todolist)
+  - [react-basics](https://github.com/bsbeeks/react-day-1)
 - Learning Objectives
-  - Understand how React compares to other Front End frameworks like Angular and Ember
+  - Understand how React compares to Angular
   - Understand how to use Webpack to set up a build process for your React App
   - Understand how to build a component which modifies and maintains it’s own state
   - Understand how to pass data into child components as props
   - Understand how to use CSS with React as well as “inline” styles
 CSS in React
   - Understand how to keep your components state up to date as well as invoke other methods in your component.
-
 - Project:
   - [todo-collection](https://github.com/ReactWeek/todo-collection)
 - Additional Reading:
@@ -579,10 +589,10 @@ CSS in React
 #### <a name="day102"></a> Day 2 - React II
 - Pre-Reading:
 - Mini Project:
-  - [mini-chatroom](https://github.com/ReactWeek/mini2-chatroom)
+  - [mini-chatroom](https://github.com/bsbeeks/react-jquery)
 - Learning Objectives
   - Understand the Life Cycle of a Components
-  - Understand how to use propTypes and getDefaultProps 
+  - Understand how to use propTypes and getDefaultProps
   - Understand what Mixins are and how they’re useful
   - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
@@ -592,10 +602,10 @@ CSS in React
 #### <a name="day103"></a> Day 3 - React III
 - Pre-Reading:
 - Mini Project:
-  - [mini-flux](https://github.com/ReactWeek/mini4-todoflux)
+  - [react-router](https://github.com/bsbeeks/react-day-3)
 - Learning Objectives
   - Understand the purpose and benefits of Flux
-  - Understand how to architect a Flux app with the following 
+  - Understand how to architect a Flux app with the following
     - actions
     - stores
     - constants
