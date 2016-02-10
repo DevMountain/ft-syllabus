@@ -203,7 +203,7 @@
 - Projects:
   - [JavaScript Basics](https://github.com/DevMountain/JS-Basics)
 - Additional Reading:
-  - [Everything you need to know about Scopes](http://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/)
+  - [Everything you need to know about Scopes](https://github.com/toddmotto/toddmotto.github.io/blob/master/_posts/2013-12-29-everything-you-wanted-to-know-about-javascript-scope.md)
 - Assessments
   - [JS Fundamentals I](https://codecard.io/a/cardio-preview/74hCukylV)
   - [Advanced JS Problems](https://codecard.io/a/cardio-preview/N4cJ_s7lR)
@@ -367,7 +367,7 @@
 - Project:
   - [iTunes API](https://github.com/DevMountain/itunes)
 - Additional Reading:
-  - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME) 
+  - [The Power of Q](https://www.youtube.com/watch?v=33kl0iQByME)
   - [JSONP](https://en.wikipedia.org/wiki/JSONP)
 - Assessment
   - [AngularJS IV - APIs](https://codecard.io/a/cardio-preview/Bri37FtZV)
