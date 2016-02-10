@@ -262,7 +262,7 @@
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
-  - Students will undrestand what prototypes are in JavaScript
+  - Students will understand what prototypes are in JavaScript
   - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Project:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
@@ -383,9 +383,6 @@
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
-  - Additional resources for Node installation:
-  - [Install Node and NPM in 30 Seconds](https://gist.github.com/isaacs/579814)
-  - [Official Node download directory](https://nodejs.org/download/release/)
 - Mini Project:
   - [MiniRoute](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
