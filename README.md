@@ -256,13 +256,17 @@
 #### <a name="day23"></a> Day 3 - JS Fundamentals V
 - Pre-Reading:
   - [JS is Sexy - Callbacks](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
+  - [JS is Sexy - Prototypes](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 - Learning Objectives
   - Students will understand synchronous vs asynchronous programming
   - Students will be able to talk about what a callback is
   - Students will understand the use cases of callbacks
   - Students will be able to identify and use callbacks
+  - Students will undrestand what prototypes are in JavaScript
+  - Students will be able to add a method on a function’s prototype and create instances of that function that invoke the prototypes method
 - Project:
   - [Callback Practice](https://github.com/DevMountain/callbackPractice)
+  - [Constructor Conductor](https://github.com/DevMountain/ConstructorConductor)
   - [Utilities](https://github.com/DevMountain/utilities)
 - Additional Reading:
 - Assessment
@@ -312,7 +316,11 @@
   - Students will be able to filter data
 - Project:
   - [Angular Friends](https://github.com/DevMountain/angular-friends)
+- Weeklong Project:
+  - [DevMt.In](https://github.com/DevMountain/dev-mt-in)
 - Additional Reading:
+- Assessment
+  - [AngularJS Day 1](https://codecard.io/a/cardio-preview/B4yCwFR8R)
 
 #### <a name="day32"></a> Day 2 - AngularJS II
 - Pre-Reading:
@@ -366,6 +374,8 @@
 
 #### <a name="day35"></a> Day 5 -Angular Review I
 
+## In-class practice project : [Angular Drills](https://github.com/DevMountain/angular-drills)
+
 ## <a name="week4"></a> Week 4
 #### <a name="day41"></a> Day 1 - Angular V
 - Pre-Reading:
@@ -373,6 +383,9 @@
 - Install these before class!:
   - [Install Node - Mac](http://blog.teamtreehouse.com/install-node-js-npm-mac)
   - [Install Node - Windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+  - Additional resources for Node installation:
+  - [Install Node and NPM in 30 Seconds](https://gist.github.com/isaacs/579814)
+  - [Official Node download directory](https://nodejs.org/download/release/)
 - Mini Project:
   - [MiniRoute](https://github.com/DevMountain/mini-Routing)
 - Learning Objectives
@@ -402,10 +415,7 @@
 - Assessment
   - [AngularJS VI - Directives](https://codecard.io/a/cardio-preview/7YFUaTqZV)
 
-#### <a name="day43"></a> Day 3 - Angular Review II
-- Review Day
-
-#### <a name="day44"></a> Day 4 -  Firebase
+#### <a name="day43"></a> Day 3 -  Firebase
 - Pre-Reading:
   - [Firebase Tutorial](http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391)
 - Learning Objectives
@@ -416,10 +426,14 @@
   - [Real Time Forum](https://github.com/DevMountain/rtfm)
 - Additional Reading:
 
-#### <a name="day45"></a> Day 5 - Firebase II & No Server Project
+#### <a name="day44"></a> Day 4 - Firebase II & No Server Project
 - Learning Objectives
   - Students will understand how to use Firebase's authentication system
   - Students will start on their no server project
+
+#### <a name="day45"></a> Day 5 - Angular & Firebase Review II
+- Review & No server project Day
+
 
 ## <a name="week5"></a> Week 5
 #### <a name="day51"></a> Day 1 - No Server Project
@@ -428,15 +442,13 @@
   - At least 2 directives
     - 1 directive can be just a templateUrl for code re-use
     - 1 directive needs to do some javascript (event if it's just elem.css({}) in the link function)
-  - [Bonus] Use firebase or an API
+  - [Bonus] Use Firebase or an API
     - This should take a back seat to making a solid project with angular
-  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to google for 'inspiration' to mimic.
+  - [Bonus 2] Make it look nice!  Styling is important to employers.  It's important to practice.  Feel free to Google for 'inspiration' to mimic.
 
 #### <a name="day52"></a> Day 2 - No Server Project
 
-#### <a name="day53"></a> Day 3 - No Server Project
-
-#### <a name="day54"></a> Day 4 - NodeJS I
+#### <a name="day53"></a> Day 3 - NodeJS I
 - Mini Project:
   - [Siri](https://github.com/DevMountain/Siri)
 - Learning Objectives
@@ -450,9 +462,9 @@
 - Project:
   - [Chatty](https://github.com/DevMountain/chatty)
 - Additional Reading:
-  - https://www.thenewboston.com/videos.php?cat=355
+  - [Node Basics Video Series](https://www.thenewboston.com/videos.php?cat=355)
 
-#### <a name="day55"></a> Day 5 - NodeJS II
+#### <a name="day54"></a> Day 4 - NodeJS II
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -466,8 +478,7 @@
   - [Personal API](https://github.com/DevMountain/personal-api)
 - Additional Reading:
 
-## <a name="week6"></a> Week 6
-#### <a name="day61"></a> Day 1 - NodeJS III
+#### <a name="day55"></a> Day 5 - NodeJS III
 - Mini Project:
   - Rewrite in Progress
 - Learning Objectives
@@ -479,7 +490,12 @@
   - [User Profiles](https://github.com/DevMountain/user-profiles)
 - Additional Reading:
 
-#### <a name="day62"></a> Day 2 - MongoDB I
+
+## <a name="week6"></a> Week 6
+
+#### <a name="day61"></a> Day 1 - MongoDB I
+- Before class:
+  - Make sure you've installed MongoDB ([Mac](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-os-x/) or [PC](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/))
 - Mini Project:
   - [Birds](https://github.com/jacob-israel-turner/mini-birds)
 - Learning Objectives
@@ -487,29 +503,40 @@
    - Understand DBs, Collections, and Documents
    - Understand CRUD operations with MongoDB
 - Project:
-  - [eCommerce I](https://github.com/DevMountain/ecommerce-part-one)
+  - [eCommerce I](https://github.com/DevMountain/ecommerce/blob/master/README.md)
 - Additional Reading:
 
-#### <a name="day63"></a> Day 3 - MongoDB II
+#### <a name="day62"></a> Day 2 - MongoDB II
 - Mini Project:
-  - [Mini-Birds Mongoose](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fdallincrane%2Fmini-birds-mongoose&sa=D&sntz=1&usg=AFQjCNFNmty01wuxbCq-U1Z_hI0OFlWWBw)
+  - [Mini-Birds Mongoose](https://github.com/DevMountain/mini-birds-mongoose)
 - Learning Objectives
   - understand what object modeling is and why it’s used
   - understand the difference between Mongoose and MongoJS
 - Project:
-  - [eCommerce II](https://github.com/DevMountain/ecommerce-part-two)
+  - [eCommerce II](https://github.com/DevMountain/ecommerce/blob/master/part-two.md)
 - Additional Reading:
 
-#### <a name="day64"></a> Day 4 -  MongoDB III
+#### <a name="day63"></a> Day 3 -  MongoDB III
  - Mini Project:
-  - [Mini-Birds Related](https://github.com/dallincrane/mini-birds-related)
+  - [Mini-Birds Related](https://github.com/DevMountain/mini-birds-mongoose/blob/master/day2README.md)
  - Learning Objectives
   - Understand the concept of relationships
   - Understand the different types of relationships, and when to use them
   - Understand how and when to use embedded and referential schemas
  - Project:
-   - [eCommerce III](https://github.com/DevMountain/ecommerce-part-three)
+   - [eCommerce III](https://github.com/DevMountain/ecommerce/blob/master/part-three.md)
  - Additional Reading:
+
+ #### <a name="day64"></a> Day 4 - NodeJS IV
+- Mini Project:
+  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
+- Learning Objectives
+  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
+  - Student can use express sessions to restrict access to resources
+  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
+- Project:
+  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
+- Additional Reading:
 
 #### <a name="day65"></a> Day 5 -  Personal Projects
 
@@ -522,17 +549,7 @@
 
 ## <a name="week8"></a> Week 8
 #### <a name="day81"></a> Day 1 - Personal Projects
-#### <a name="day82"></a> Day 2 - NodeJS IV
-- Mini Project:
-  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
-- Learning Objectives
-  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
-  - Student can use express sessions to restrict access to resources
-  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
-- Project:
-  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
-- Additional Reading:
-
+#### <a name="day82"></a> Day 2 - Personal Projects
 #### <a name="day83"></a> Day 3 - Personal Projects
 #### <a name="day84"></a> Day 4 - Personal Projects
 #### <a name="day85"></a> Day 5 - Personal Projects
@@ -545,65 +562,53 @@
 #### <a name="day95"></a> Day 5 - Personal Projects
 
 ## <a name="week9"></a> Week 10
-#### <a name="day101"></a> Day 1 - Advanced JS I
+#### <a name="day101"></a> Day 1 - React I
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [react-basics](https://github.com/bsbeeks/react-day-1)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand how React compares to Angular
+  - Understand how to use Webpack to set up a build process for your React App
+  - Understand how to build a component which modifies and maintains it’s own state
+  - Understand how to pass data into child components as props
+  - Understand how to use CSS with React as well as “inline” styles
+CSS in React
+  - Understand how to keep your components state up to date as well as invoke other methods in your component.
 - Project:
-  - [TODO](#TODO)
+  - [todo-collection](https://github.com/ReactWeek/todo-collection)
 - Additional Reading:
 
-#### <a name="day102"></a> Day 2 - Advanced JS II
+#### <a name="day102"></a> Day 2 - React II
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [mini-chatroom](https://github.com/bsbeeks/react-jquery)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand the Life Cycle of a Components
+  - Understand how to use propTypes and getDefaultProps
+  - Understand what Mixins are and how they’re useful
+  - How to use React w/ jQuery and specifically to make Ajax requests
 - Project:
-  - [TODO](#TODO)
+  - [react-tunes](https://github.com/ReactWeek/react-tunes)
 - Additional Reading:
 
-#### <a name="day103"></a> Day 3 - React I
+#### <a name="day103"></a> Day 3 - React III
 - Pre-Reading:
 - Mini Project:
-  - [TODO](#TODO)
+  - [react-router](https://github.com/bsbeeks/react-day-3)
 - Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
+  - Understand the purpose and benefits of Flux
+  - Understand how to architect a Flux app with the following
+    - actions
+    - stores
+    - constants
+    - dispatcher
+    - components
 - Project:
-  - [TODO](#TODO)
+  - [note-taker](https://github.com/ReactWeek/github-notetaker)
 - Additional Reading:
 
-#### <a name="day104"></a> Day 4 - React II
-- Pre-Reading:
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
-
-#### <a name="day104"></a> Day 4 - React III
-- Pre-Reading:
-- Mini Project:
-  - [TODO](#TODO)
-- Learning Objectives
-  - LEARNING OBJ
-  - LEARNING OBJ
-  - LEARNING OBJ
-- Project:
-  - [TODO](#TODO)
-- Additional Reading:
+#### <a name="day104"></a> Day 4 - Group Projects
+#### <a name="day105"></a> Day 5 - Group Projects
 
 ## <a name="week11"></a> Week 11
 #### <a name="day111"></a> Day 1 - Group Projects
