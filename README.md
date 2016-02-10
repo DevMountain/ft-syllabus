@@ -535,6 +535,17 @@
   - [Coder Friends](https://github.com/DevMountain/CoderFriends)
 - Additional Reading:
 
+ #### <a name="day64"></a> Day 4 - NodeJS IV
+- Mini Project:
+  - [Facebook Profile Viewer](https://github.com/DevMountain/FacebookViewer)
+- Learning Objectives
+  - Student can distinguish between Basic Auth, Form-based Auth, Token-based Auth, and OAuth
+  - Student can use express sessions to restrict access to resources
+  - Student can use passport to authenticate users with providers like Twitter, Facebook, etc.
+- Project:
+  - [Coder Friends](https://github.com/DevMountain/CoderFriends)
+- Additional Reading:
+
 #### <a name="day65"></a> Day 5 -  Personal Projects
 
 ## <a name="week7"></a> Week 7 (INTERIM WEEK)
