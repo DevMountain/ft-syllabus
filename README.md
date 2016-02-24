@@ -384,6 +384,8 @@
   - Students will be able to use stateParams to gather data from the URL
 - Project:
   - [NBA Routes](https://github.com/DevMountain/nbaRoutes)
+- Weeklong Project:
+  - [Quiz](http://projectguide.devmounta.in/#/quiz) 
 - Additional Reading:
 - Assessment
   - [AngularJS V - Routing](https://codecard.io/a/cardio-preview/NEyPyQlhV)
